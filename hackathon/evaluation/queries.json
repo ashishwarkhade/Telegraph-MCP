@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "FIN_001",
+    "query": "Compare the information required to evaluate Bitcoin, EVM USDC, and traditional bank settlement for a $100,000 cross-border corporate payment. Do not recommend a route."
+  },
+  {
+    "id": "FIN_002",
+    "query": "What cost components should be collected before evaluating a Bitcoin cross-border payment, including network fees, exchange spreads, custody, and fiat conversion?"
+  },
+  {
+    "id": "FIN_003",
+    "query": "What cost components should be collected before evaluating an EVM USDC settlement, including gas, bridge fees, liquidity, exchange spreads, and fiat conversion?"
+  },
+  {
+    "id": "FIN_004",
+    "query": "What operational risks should be evaluated when a company uses blockchain assets for cross-border settlement?"
+  },
+  {
+    "id": "FIN_005",
+    "query": "What information is required to evaluate liquidity risk when converting BTC or USDC into a local fiat currency?"
+  },
+  {
+    "id": "FIN_006",
+    "query": "How should settlement finality, confirmation time, and transaction reliability be compared across Bitcoin, EVM networks, and banking systems?"
+  },
+  {
+    "id": "FIN_007",
+    "query": "What indicators could signal abnormal cost or liquidity conditions in a crypto settlement route?"
+  },
+  {
+    "id": "FIN_008",
+    "query": "What data should be collected to evaluate counterparty risk in a crypto-based settlement transaction?"
+  },
+  {
+    "id": "MARKET_001",
+    "query": "What market indicators should be monitored before executing a large Bitcoin transaction?"
+  },
+  {
+    "id": "MARKET_002",
+    "query": "How can Bitcoin network congestion affect transaction cost and settlement timing?"
+  },
+  {
+    "id": "MARKET_003",
+    "query": "What information from funding rates, open interest, basis, and volatility can indicate elevated crypto market risk?"
+  },
+  {
+    "id": "MARKET_004",
+    "query": "What indicators can distinguish normal cryptocurrency volatility from an abnormal market event?"
+  },
+  {
+    "id": "MARKET_005",
+    "query": "What information should be collected before evaluating liquidity risk for a large USDC transaction?"
+  },
+  {
+    "id": "MARKET_006",
+    "query": "How can exchange liquidity, order-book depth, spreads, and trading volume affect crypto settlement execution?"
+  },
+  {
+    "id": "MARKET_007",
+    "query": "What signals could indicate that a stablecoin market is experiencing unusual stress?"
+  },
+  {
+    "id": "MARKET_008",
+    "query": "What data should an automated financial-risk system collect before treating a crypto market signal as reliable?"
+  },
+  {
+    "id": "FRAUD_001",
+    "query": "What transaction characteristics can indicate potential cryptocurrency payment fraud?"
+  },
+  {
+    "id": "FRAUD_002",
+    "query": "What wallet-level signals should be evaluated before sending a large cryptocurrency payment?"
+  },
+  {
+    "id": "FRAUD_003",
+    "query": "What indicators can identify suspicious patterns in cryptocurrency transaction activity?"
+  },
+  {
+    "id": "FRAUD_004",
+    "query": "How can transaction velocity, address history, concentration, and unusual counterparties contribute to fraud-risk assessment?"
+  },
+  {
+    "id": "FRAUD_005",
+    "query": "What information should be collected before assigning a risk score to a cryptocurrency wallet?"
+  },
+  {
+    "id": "FRAUD_006",
+    "query": "What are the limitations of using blockchain transaction history alone for fraud detection?"
+  },
+  {
+    "id": "FRAUD_007",
+    "query": "How should an automated system separate confirmed fraud indicators from weak or speculative signals?"
+  },
+  {
+    "id": "MINER_001",
+    "query": "What characteristics should be evaluated when comparing competing financial-data intelligence providers?"
+  },
+  {
+    "id": "MINER_002",
+    "query": "How should an automated system evaluate the reliability of a real-time crypto market data source?"
+  },
+  {
+    "id": "MINER_003",
+    "query": "What evidence should be collected before treating an external AI-generated financial answer as trustworthy?"
+  },
+  {
+    "id": "MINER_004",
+    "query": "How should conflicting financial intelligence from multiple external sources be detected and represented?"
+  },
+  {
+    "id": "MINER_005",
+    "query": "What is the difference between a live financial data signal, an AI-generated interpretation, and a verified fact?"
+  },
+  {
+    "id": "MINER_006",
+    "query": "What characteristics make an external financial intelligence source useful for automated decision-support systems?"
+  },
+  {
+    "id": "MINER_007",
+    "query": "What validation steps should be performed before external financial intelligence is allowed to influence a deterministic decision engine?"
+  },
+  {
+    "id": "MINER_031",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating India-China settlement for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_032",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering India-China settlement for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_033",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing India-China settlement?"
+  },
+  {
+    "id": "MINER_034",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating India-China settlement?"
+  },
+  {
+    "id": "MINER_035",
+    "category": "BRICS",
+    "query": "What information about India-China settlement should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_036",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating India-Russia settlement for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_037",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering India-Russia settlement for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_038",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing India-Russia settlement?"
+  },
+  {
+    "id": "MINER_039",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating India-Russia settlement?"
+  },
+  {
+    "id": "MINER_040",
+    "category": "BRICS",
+    "query": "What information about India-Russia settlement should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_041",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating India-Brazil settlement for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_042",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering India-Brazil settlement for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_043",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing India-Brazil settlement?"
+  },
+  {
+    "id": "MINER_044",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating India-Brazil settlement?"
+  },
+  {
+    "id": "MINER_045",
+    "category": "BRICS",
+    "query": "What information about India-Brazil settlement should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_046",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating India-South Africa settlement for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_047",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering India-South Africa settlement for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_048",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing India-South Africa settlement?"
+  },
+  {
+    "id": "MINER_049",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating India-South Africa settlement?"
+  },
+  {
+    "id": "MINER_050",
+    "category": "BRICS",
+    "query": "What information about India-South Africa settlement should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_051",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS currency conversion for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_052",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS currency conversion for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_053",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS currency conversion?"
+  },
+  {
+    "id": "MINER_054",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS currency conversion?"
+  },
+  {
+    "id": "MINER_055",
+    "category": "BRICS",
+    "query": "What information about BRICS currency conversion should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_056",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS payment routing for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_057",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS payment routing for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_058",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS payment routing?"
+  },
+  {
+    "id": "MINER_059",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS payment routing?"
+  },
+  {
+    "id": "MINER_060",
+    "category": "BRICS",
+    "query": "What information about BRICS payment routing should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_061",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS settlement liquidity for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_062",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS settlement liquidity for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_063",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS settlement liquidity?"
+  },
+  {
+    "id": "MINER_064",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS settlement liquidity?"
+  },
+  {
+    "id": "MINER_065",
+    "category": "BRICS",
+    "query": "What information about BRICS settlement liquidity should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_066",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS settlement finality for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_067",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS settlement finality for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_068",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS settlement finality?"
+  },
+  {
+    "id": "MINER_069",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS settlement finality?"
+  },
+  {
+    "id": "MINER_070",
+    "category": "BRICS",
+    "query": "What information about BRICS settlement finality should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_071",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS transaction monitoring for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_072",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS transaction monitoring for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_073",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS transaction monitoring?"
+  },
+  {
+    "id": "MINER_074",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS transaction monitoring?"
+  },
+  {
+    "id": "MINER_075",
+    "category": "BRICS",
+    "query": "What information about BRICS transaction monitoring should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_076",
+    "category": "BRICS",
+    "query": "What information should be collected before evaluating BRICS payment interoperability for a BRICS cross-border settlement?"
+  },
+  {
+    "id": "MINER_077",
+    "category": "BRICS",
+    "query": "What risks should be evaluated when considering BRICS payment interoperability for a BRICS transaction?"
+  },
+  {
+    "id": "MINER_078",
+    "category": "BRICS",
+    "query": "What facts, assumptions, and uncertainties should be separated when assessing BRICS payment interoperability?"
+  },
+  {
+    "id": "MINER_079",
+    "category": "BRICS",
+    "query": "What data would a deterministic settlement engine need before evaluating BRICS payment interoperability?"
+  },
+  {
+    "id": "MINER_080",
+    "category": "BRICS",
+    "query": "What information about BRICS payment interoperability should be verified independently before relying on it?"
+  },
+  {
+    "id": "MINER_081",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin transaction fees before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_082",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin transaction fees?"
+  },
+  {
+    "id": "MINER_083",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin transaction fees require live data?"
+  },
+  {
+    "id": "MINER_084",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin transaction fees in settlement intelligence?"
+  },
+  {
+    "id": "MINER_085",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin transaction fees without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_086",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin confirmation time before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_087",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin confirmation time?"
+  },
+  {
+    "id": "MINER_088",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin confirmation time require live data?"
+  },
+  {
+    "id": "MINER_089",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin confirmation time in settlement intelligence?"
+  },
+  {
+    "id": "MINER_090",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin confirmation time without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_091",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin mempool congestion before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_092",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin mempool congestion?"
+  },
+  {
+    "id": "MINER_093",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin mempool congestion require live data?"
+  },
+  {
+    "id": "MINER_094",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin mempool congestion in settlement intelligence?"
+  },
+  {
+    "id": "MINER_095",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin mempool congestion without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_096",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin liquidity before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_097",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin liquidity?"
+  },
+  {
+    "id": "MINER_098",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin liquidity require live data?"
+  },
+  {
+    "id": "MINER_099",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin liquidity in settlement intelligence?"
+  },
+  {
+    "id": "MINER_100",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin liquidity without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_101",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin price volatility before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_102",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin price volatility?"
+  },
+  {
+    "id": "MINER_103",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin price volatility require live data?"
+  },
+  {
+    "id": "MINER_104",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin price volatility in settlement intelligence?"
+  },
+  {
+    "id": "MINER_105",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin price volatility without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_106",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin settlement finality before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_107",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin settlement finality?"
+  },
+  {
+    "id": "MINER_108",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin settlement finality require live data?"
+  },
+  {
+    "id": "MINER_109",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin settlement finality in settlement intelligence?"
+  },
+  {
+    "id": "MINER_110",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin settlement finality without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_111",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin custody before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_112",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin custody?"
+  },
+  {
+    "id": "MINER_113",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin custody require live data?"
+  },
+  {
+    "id": "MINER_114",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin custody in settlement intelligence?"
+  },
+  {
+    "id": "MINER_115",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin custody without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_116",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin wallet security before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_117",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin wallet security?"
+  },
+  {
+    "id": "MINER_118",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin wallet security require live data?"
+  },
+  {
+    "id": "MINER_119",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin wallet security in settlement intelligence?"
+  },
+  {
+    "id": "MINER_120",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin wallet security without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_121",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin exchange liquidity before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_122",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin exchange liquidity?"
+  },
+  {
+    "id": "MINER_123",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin exchange liquidity require live data?"
+  },
+  {
+    "id": "MINER_124",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin exchange liquidity in settlement intelligence?"
+  },
+  {
+    "id": "MINER_125",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin exchange liquidity without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_126",
+    "category": "BITCOIN",
+    "query": "What information should be collected about Bitcoin network reliability before evaluating Bitcoin settlement?"
+  },
+  {
+    "id": "MINER_127",
+    "category": "BITCOIN",
+    "query": "What risks and uncertainties are associated with Bitcoin network reliability?"
+  },
+  {
+    "id": "MINER_128",
+    "category": "BITCOIN",
+    "query": "Which parts of an assessment of Bitcoin network reliability require live data?"
+  },
+  {
+    "id": "MINER_129",
+    "category": "BITCOIN",
+    "query": "What evidence would be needed before using Bitcoin network reliability in settlement intelligence?"
+  },
+  {
+    "id": "MINER_130",
+    "category": "BITCOIN",
+    "query": "How should an automated system evaluate Bitcoin network reliability without making a settlement recommendation?"
+  },
+  {
+    "id": "MINER_131",
+    "category": "USDC",
+    "query": "What information should be collected about USDC liquidity before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_132",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC liquidity?"
+  },
+  {
+    "id": "MINER_133",
+    "category": "USDC",
+    "query": "Which aspects of USDC liquidity require current or independently verified information?"
+  },
+  {
+    "id": "MINER_134",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC liquidity as settlement intelligence?"
+  },
+  {
+    "id": "MINER_135",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC liquidity without making a route recommendation?"
+  },
+  {
+    "id": "MINER_136",
+    "category": "USDC",
+    "query": "What information should be collected about USDC depeg risk before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_137",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC depeg risk?"
+  },
+  {
+    "id": "MINER_138",
+    "category": "USDC",
+    "query": "Which aspects of USDC depeg risk require current or independently verified information?"
+  },
+  {
+    "id": "MINER_139",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC depeg risk as settlement intelligence?"
+  },
+  {
+    "id": "MINER_140",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC depeg risk without making a route recommendation?"
+  },
+  {
+    "id": "MINER_141",
+    "category": "USDC",
+    "query": "What information should be collected about USDC issuer risk before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_142",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC issuer risk?"
+  },
+  {
+    "id": "MINER_143",
+    "category": "USDC",
+    "query": "Which aspects of USDC issuer risk require current or independently verified information?"
+  },
+  {
+    "id": "MINER_144",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC issuer risk as settlement intelligence?"
+  },
+  {
+    "id": "MINER_145",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC issuer risk without making a route recommendation?"
+  },
+  {
+    "id": "MINER_146",
+    "category": "USDC",
+    "query": "What information should be collected about USDC redemption before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_147",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC redemption?"
+  },
+  {
+    "id": "MINER_148",
+    "category": "USDC",
+    "query": "Which aspects of USDC redemption require current or independently verified information?"
+  },
+  {
+    "id": "MINER_149",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC redemption as settlement intelligence?"
+  },
+  {
+    "id": "MINER_150",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC redemption without making a route recommendation?"
+  },
+  {
+    "id": "MINER_151",
+    "category": "USDC",
+    "query": "What information should be collected about USDC transfer finality before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_152",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC transfer finality?"
+  },
+  {
+    "id": "MINER_153",
+    "category": "USDC",
+    "query": "Which aspects of USDC transfer finality require current or independently verified information?"
+  },
+  {
+    "id": "MINER_154",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC transfer finality as settlement intelligence?"
+  },
+  {
+    "id": "MINER_155",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC transfer finality without making a route recommendation?"
+  },
+  {
+    "id": "MINER_156",
+    "category": "USDC",
+    "query": "What information should be collected about USDC EVM transactions before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_157",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC EVM transactions?"
+  },
+  {
+    "id": "MINER_158",
+    "category": "USDC",
+    "query": "Which aspects of USDC EVM transactions require current or independently verified information?"
+  },
+  {
+    "id": "MINER_159",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC EVM transactions as settlement intelligence?"
+  },
+  {
+    "id": "MINER_160",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC EVM transactions without making a route recommendation?"
+  },
+  {
+    "id": "MINER_161",
+    "category": "USDC",
+    "query": "What information should be collected about USDC smart contract risk before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_162",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC smart contract risk?"
+  },
+  {
+    "id": "MINER_163",
+    "category": "USDC",
+    "query": "Which aspects of USDC smart contract risk require current or independently verified information?"
+  },
+  {
+    "id": "MINER_164",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC smart contract risk as settlement intelligence?"
+  },
+  {
+    "id": "MINER_165",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC smart contract risk without making a route recommendation?"
+  },
+  {
+    "id": "MINER_166",
+    "category": "USDC",
+    "query": "What information should be collected about USDC custody before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_167",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC custody?"
+  },
+  {
+    "id": "MINER_168",
+    "category": "USDC",
+    "query": "Which aspects of USDC custody require current or independently verified information?"
+  },
+  {
+    "id": "MINER_169",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC custody as settlement intelligence?"
+  },
+  {
+    "id": "MINER_170",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC custody without making a route recommendation?"
+  },
+  {
+    "id": "MINER_171",
+    "category": "USDC",
+    "query": "What information should be collected about USDC exchange liquidity before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_172",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC exchange liquidity?"
+  },
+  {
+    "id": "MINER_173",
+    "category": "USDC",
+    "query": "Which aspects of USDC exchange liquidity require current or independently verified information?"
+  },
+  {
+    "id": "MINER_174",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC exchange liquidity as settlement intelligence?"
+  },
+  {
+    "id": "MINER_175",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC exchange liquidity without making a route recommendation?"
+  },
+  {
+    "id": "MINER_176",
+    "category": "USDC",
+    "query": "What information should be collected about USDC fiat conversion before evaluating USDC settlement?"
+  },
+  {
+    "id": "MINER_177",
+    "category": "USDC",
+    "query": "What risks and uncertainties are associated with USDC fiat conversion?"
+  },
+  {
+    "id": "MINER_178",
+    "category": "USDC",
+    "query": "Which aspects of USDC fiat conversion require current or independently verified information?"
+  },
+  {
+    "id": "MINER_179",
+    "category": "USDC",
+    "query": "What evidence would be needed before using USDC fiat conversion as settlement intelligence?"
+  },
+  {
+    "id": "MINER_180",
+    "category": "USDC",
+    "query": "How should an automated system evaluate USDC fiat conversion without making a route recommendation?"
+  },
+  {
+    "id": "MINER_181",
+    "category": "EVM",
+    "query": "What information should be collected about EVM gas costs before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_182",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM gas costs?"
+  },
+  {
+    "id": "MINER_183",
+    "category": "EVM",
+    "query": "Which claims about EVM gas costs require live network data?"
+  },
+  {
+    "id": "MINER_184",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM gas costs?"
+  },
+  {
+    "id": "MINER_185",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM gas costs?"
+  },
+  {
+    "id": "MINER_186",
+    "category": "EVM",
+    "query": "What information should be collected about EVM network congestion before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_187",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM network congestion?"
+  },
+  {
+    "id": "MINER_188",
+    "category": "EVM",
+    "query": "Which claims about EVM network congestion require live network data?"
+  },
+  {
+    "id": "MINER_189",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM network congestion?"
+  },
+  {
+    "id": "MINER_190",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM network congestion?"
+  },
+  {
+    "id": "MINER_191",
+    "category": "EVM",
+    "query": "What information should be collected about EVM transaction finality before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_192",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM transaction finality?"
+  },
+  {
+    "id": "MINER_193",
+    "category": "EVM",
+    "query": "Which claims about EVM transaction finality require live network data?"
+  },
+  {
+    "id": "MINER_194",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM transaction finality?"
+  },
+  {
+    "id": "MINER_195",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM transaction finality?"
+  },
+  {
+    "id": "MINER_196",
+    "category": "EVM",
+    "query": "What information should be collected about EVM smart contracts before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_197",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM smart contracts?"
+  },
+  {
+    "id": "MINER_198",
+    "category": "EVM",
+    "query": "Which claims about EVM smart contracts require live network data?"
+  },
+  {
+    "id": "MINER_199",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM smart contracts?"
+  },
+  {
+    "id": "MINER_200",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM smart contracts?"
+  },
+  {
+    "id": "MINER_201",
+    "category": "EVM",
+    "query": "What information should be collected about EVM wallet security before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_202",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM wallet security?"
+  },
+  {
+    "id": "MINER_203",
+    "category": "EVM",
+    "query": "Which claims about EVM wallet security require live network data?"
+  },
+  {
+    "id": "MINER_204",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM wallet security?"
+  },
+  {
+    "id": "MINER_205",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM wallet security?"
+  },
+  {
+    "id": "MINER_206",
+    "category": "EVM",
+    "query": "What information should be collected about EVM bridge risk before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_207",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM bridge risk?"
+  },
+  {
+    "id": "MINER_208",
+    "category": "EVM",
+    "query": "Which claims about EVM bridge risk require live network data?"
+  },
+  {
+    "id": "MINER_209",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM bridge risk?"
+  },
+  {
+    "id": "MINER_210",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM bridge risk?"
+  },
+  {
+    "id": "MINER_211",
+    "category": "EVM",
+    "query": "What information should be collected about EVM network reliability before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_212",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM network reliability?"
+  },
+  {
+    "id": "MINER_213",
+    "category": "EVM",
+    "query": "Which claims about EVM network reliability require live network data?"
+  },
+  {
+    "id": "MINER_214",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM network reliability?"
+  },
+  {
+    "id": "MINER_215",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM network reliability?"
+  },
+  {
+    "id": "MINER_216",
+    "category": "EVM",
+    "query": "What information should be collected about EVM transaction monitoring before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_217",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM transaction monitoring?"
+  },
+  {
+    "id": "MINER_218",
+    "category": "EVM",
+    "query": "Which claims about EVM transaction monitoring require live network data?"
+  },
+  {
+    "id": "MINER_219",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM transaction monitoring?"
+  },
+  {
+    "id": "MINER_220",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM transaction monitoring?"
+  },
+  {
+    "id": "MINER_221",
+    "category": "EVM",
+    "query": "What information should be collected about EVM settlement infrastructure before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_222",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM settlement infrastructure?"
+  },
+  {
+    "id": "MINER_223",
+    "category": "EVM",
+    "query": "Which claims about EVM settlement infrastructure require live network data?"
+  },
+  {
+    "id": "MINER_224",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM settlement infrastructure?"
+  },
+  {
+    "id": "MINER_225",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM settlement infrastructure?"
+  },
+  {
+    "id": "MINER_226",
+    "category": "EVM",
+    "query": "What information should be collected about EVM transaction failure recovery before evaluating an EVM settlement route?"
+  },
+  {
+    "id": "MINER_227",
+    "category": "EVM",
+    "query": "What risks should be considered when assessing EVM transaction failure recovery?"
+  },
+  {
+    "id": "MINER_228",
+    "category": "EVM",
+    "query": "Which claims about EVM transaction failure recovery require live network data?"
+  },
+  {
+    "id": "MINER_229",
+    "category": "EVM",
+    "query": "What evidence should validate information about EVM transaction failure recovery?"
+  },
+  {
+    "id": "MINER_230",
+    "category": "EVM",
+    "query": "What information would a deterministic engine require before considering EVM transaction failure recovery?"
+  },
+  {
+    "id": "MINER_231",
+    "category": "BANKING",
+    "query": "What information should be collected about SWIFT transfers before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_232",
+    "category": "BANKING",
+    "query": "What risks are associated with SWIFT transfers in cross-border payments?"
+  },
+  {
+    "id": "MINER_233",
+    "category": "BANKING",
+    "query": "Which aspects of SWIFT transfers depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_234",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about SWIFT transfers?"
+  },
+  {
+    "id": "MINER_235",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about SWIFT transfers?"
+  },
+  {
+    "id": "MINER_236",
+    "category": "BANKING",
+    "query": "What information should be collected about correspondent banking before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_237",
+    "category": "BANKING",
+    "query": "What risks are associated with correspondent banking in cross-border payments?"
+  },
+  {
+    "id": "MINER_238",
+    "category": "BANKING",
+    "query": "Which aspects of correspondent banking depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_239",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about correspondent banking?"
+  },
+  {
+    "id": "MINER_240",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about correspondent banking?"
+  },
+  {
+    "id": "MINER_241",
+    "category": "BANKING",
+    "query": "What information should be collected about international wire transfers before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_242",
+    "category": "BANKING",
+    "query": "What risks are associated with international wire transfers in cross-border payments?"
+  },
+  {
+    "id": "MINER_243",
+    "category": "BANKING",
+    "query": "Which aspects of international wire transfers depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_244",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about international wire transfers?"
+  },
+  {
+    "id": "MINER_245",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about international wire transfers?"
+  },
+  {
+    "id": "MINER_246",
+    "category": "BANKING",
+    "query": "What information should be collected about bank settlement fees before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_247",
+    "category": "BANKING",
+    "query": "What risks are associated with bank settlement fees in cross-border payments?"
+  },
+  {
+    "id": "MINER_248",
+    "category": "BANKING",
+    "query": "Which aspects of bank settlement fees depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_249",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank settlement fees?"
+  },
+  {
+    "id": "MINER_250",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank settlement fees?"
+  },
+  {
+    "id": "MINER_251",
+    "category": "BANKING",
+    "query": "What information should be collected about bank FX spreads before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_252",
+    "category": "BANKING",
+    "query": "What risks are associated with bank FX spreads in cross-border payments?"
+  },
+  {
+    "id": "MINER_253",
+    "category": "BANKING",
+    "query": "Which aspects of bank FX spreads depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_254",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank FX spreads?"
+  },
+  {
+    "id": "MINER_255",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank FX spreads?"
+  },
+  {
+    "id": "MINER_256",
+    "category": "BANKING",
+    "query": "What information should be collected about bank settlement timing before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_257",
+    "category": "BANKING",
+    "query": "What risks are associated with bank settlement timing in cross-border payments?"
+  },
+  {
+    "id": "MINER_258",
+    "category": "BANKING",
+    "query": "Which aspects of bank settlement timing depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_259",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank settlement timing?"
+  },
+  {
+    "id": "MINER_260",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank settlement timing?"
+  },
+  {
+    "id": "MINER_261",
+    "category": "BANKING",
+    "query": "What information should be collected about payment recalls before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_262",
+    "category": "BANKING",
+    "query": "What risks are associated with payment recalls in cross-border payments?"
+  },
+  {
+    "id": "MINER_263",
+    "category": "BANKING",
+    "query": "Which aspects of payment recalls depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_264",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about payment recalls?"
+  },
+  {
+    "id": "MINER_265",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about payment recalls?"
+  },
+  {
+    "id": "MINER_266",
+    "category": "BANKING",
+    "query": "What information should be collected about bank compliance checks before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_267",
+    "category": "BANKING",
+    "query": "What risks are associated with bank compliance checks in cross-border payments?"
+  },
+  {
+    "id": "MINER_268",
+    "category": "BANKING",
+    "query": "Which aspects of bank compliance checks depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_269",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank compliance checks?"
+  },
+  {
+    "id": "MINER_270",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank compliance checks?"
+  },
+  {
+    "id": "MINER_271",
+    "category": "BANKING",
+    "query": "What information should be collected about bank counterparty risk before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_272",
+    "category": "BANKING",
+    "query": "What risks are associated with bank counterparty risk in cross-border payments?"
+  },
+  {
+    "id": "MINER_273",
+    "category": "BANKING",
+    "query": "Which aspects of bank counterparty risk depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_274",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank counterparty risk?"
+  },
+  {
+    "id": "MINER_275",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank counterparty risk?"
+  },
+  {
+    "id": "MINER_276",
+    "category": "BANKING",
+    "query": "What information should be collected about bank operational failures before comparing bank settlement with blockchain settlement?"
+  },
+  {
+    "id": "MINER_277",
+    "category": "BANKING",
+    "query": "What risks are associated with bank operational failures in cross-border payments?"
+  },
+  {
+    "id": "MINER_278",
+    "category": "BANKING",
+    "query": "Which aspects of bank operational failures depend on the banks and jurisdictions involved?"
+  },
+  {
+    "id": "MINER_279",
+    "category": "BANKING",
+    "query": "What evidence should be collected before relying on information about bank operational failures?"
+  },
+  {
+    "id": "MINER_280",
+    "category": "BANKING",
+    "query": "What information would an automated settlement system need about bank operational failures?"
+  },
+  {
+    "id": "MINER_281",
+    "category": "FX",
+    "query": "What information should be collected about INR exchange rates before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_282",
+    "category": "FX",
+    "query": "What risks arise from INR exchange rates in international payments?"
+  },
+  {
+    "id": "MINER_283",
+    "category": "FX",
+    "query": "Which parts of an assessment of INR exchange rates require live market data?"
+  },
+  {
+    "id": "MINER_284",
+    "category": "FX",
+    "query": "What evidence would validate information about INR exchange rates?"
+  },
+  {
+    "id": "MINER_285",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about INR exchange rates before making a decision?"
+  },
+  {
+    "id": "MINER_286",
+    "category": "FX",
+    "query": "What information should be collected about USD exchange rates before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_287",
+    "category": "FX",
+    "query": "What risks arise from USD exchange rates in international payments?"
+  },
+  {
+    "id": "MINER_288",
+    "category": "FX",
+    "query": "Which parts of an assessment of USD exchange rates require live market data?"
+  },
+  {
+    "id": "MINER_289",
+    "category": "FX",
+    "query": "What evidence would validate information about USD exchange rates?"
+  },
+  {
+    "id": "MINER_290",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about USD exchange rates before making a decision?"
+  },
+  {
+    "id": "MINER_291",
+    "category": "FX",
+    "query": "What information should be collected about CNY exchange rates before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_292",
+    "category": "FX",
+    "query": "What risks arise from CNY exchange rates in international payments?"
+  },
+  {
+    "id": "MINER_293",
+    "category": "FX",
+    "query": "Which parts of an assessment of CNY exchange rates require live market data?"
+  },
+  {
+    "id": "MINER_294",
+    "category": "FX",
+    "query": "What evidence would validate information about CNY exchange rates?"
+  },
+  {
+    "id": "MINER_295",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about CNY exchange rates before making a decision?"
+  },
+  {
+    "id": "MINER_296",
+    "category": "FX",
+    "query": "What information should be collected about foreign exchange spreads before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_297",
+    "category": "FX",
+    "query": "What risks arise from foreign exchange spreads in international payments?"
+  },
+  {
+    "id": "MINER_298",
+    "category": "FX",
+    "query": "Which parts of an assessment of foreign exchange spreads require live market data?"
+  },
+  {
+    "id": "MINER_299",
+    "category": "FX",
+    "query": "What evidence would validate information about foreign exchange spreads?"
+  },
+  {
+    "id": "MINER_300",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about foreign exchange spreads before making a decision?"
+  },
+  {
+    "id": "MINER_301",
+    "category": "FX",
+    "query": "What information should be collected about FX liquidity before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_302",
+    "category": "FX",
+    "query": "What risks arise from FX liquidity in international payments?"
+  },
+  {
+    "id": "MINER_303",
+    "category": "FX",
+    "query": "Which parts of an assessment of FX liquidity require live market data?"
+  },
+  {
+    "id": "MINER_304",
+    "category": "FX",
+    "query": "What evidence would validate information about FX liquidity?"
+  },
+  {
+    "id": "MINER_305",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about FX liquidity before making a decision?"
+  },
+  {
+    "id": "MINER_306",
+    "category": "FX",
+    "query": "What information should be collected about FX volatility before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_307",
+    "category": "FX",
+    "query": "What risks arise from FX volatility in international payments?"
+  },
+  {
+    "id": "MINER_308",
+    "category": "FX",
+    "query": "Which parts of an assessment of FX volatility require live market data?"
+  },
+  {
+    "id": "MINER_309",
+    "category": "FX",
+    "query": "What evidence would validate information about FX volatility?"
+  },
+  {
+    "id": "MINER_310",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about FX volatility before making a decision?"
+  },
+  {
+    "id": "MINER_311",
+    "category": "FX",
+    "query": "What information should be collected about currency conversion costs before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_312",
+    "category": "FX",
+    "query": "What risks arise from currency conversion costs in international payments?"
+  },
+  {
+    "id": "MINER_313",
+    "category": "FX",
+    "query": "Which parts of an assessment of currency conversion costs require live market data?"
+  },
+  {
+    "id": "MINER_314",
+    "category": "FX",
+    "query": "What evidence would validate information about currency conversion costs?"
+  },
+  {
+    "id": "MINER_315",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about currency conversion costs before making a decision?"
+  },
+  {
+    "id": "MINER_316",
+    "category": "FX",
+    "query": "What information should be collected about stablecoin FX conversion before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_317",
+    "category": "FX",
+    "query": "What risks arise from stablecoin FX conversion in international payments?"
+  },
+  {
+    "id": "MINER_318",
+    "category": "FX",
+    "query": "Which parts of an assessment of stablecoin FX conversion require live market data?"
+  },
+  {
+    "id": "MINER_319",
+    "category": "FX",
+    "query": "What evidence would validate information about stablecoin FX conversion?"
+  },
+  {
+    "id": "MINER_320",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about stablecoin FX conversion before making a decision?"
+  },
+  {
+    "id": "MINER_321",
+    "category": "FX",
+    "query": "What information should be collected about crypto-to-fiat conversion before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_322",
+    "category": "FX",
+    "query": "What risks arise from crypto-to-fiat conversion in international payments?"
+  },
+  {
+    "id": "MINER_323",
+    "category": "FX",
+    "query": "Which parts of an assessment of crypto-to-fiat conversion require live market data?"
+  },
+  {
+    "id": "MINER_324",
+    "category": "FX",
+    "query": "What evidence would validate information about crypto-to-fiat conversion?"
+  },
+  {
+    "id": "MINER_325",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about crypto-to-fiat conversion before making a decision?"
+  },
+  {
+    "id": "MINER_326",
+    "category": "FX",
+    "query": "What information should be collected about cross-border FX settlement before evaluating a cross-border settlement?"
+  },
+  {
+    "id": "MINER_327",
+    "category": "FX",
+    "query": "What risks arise from cross-border FX settlement in international payments?"
+  },
+  {
+    "id": "MINER_328",
+    "category": "FX",
+    "query": "Which parts of an assessment of cross-border FX settlement require live market data?"
+  },
+  {
+    "id": "MINER_329",
+    "category": "FX",
+    "query": "What evidence would validate information about cross-border FX settlement?"
+  },
+  {
+    "id": "MINER_330",
+    "category": "FX",
+    "query": "What information should a settlement engine receive about cross-border FX settlement before making a decision?"
+  },
+  {
+    "id": "MINER_331",
+    "category": "MARKET",
+    "query": "What information should be collected about crypto market liquidity before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_332",
+    "category": "MARKET",
+    "query": "What risks can arise from crypto market liquidity?"
+  },
+  {
+    "id": "MINER_333",
+    "category": "MARKET",
+    "query": "Which information about crypto market liquidity is time-sensitive?"
+  },
+  {
+    "id": "MINER_334",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about crypto market liquidity?"
+  },
+  {
+    "id": "MINER_335",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about crypto market liquidity can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_336",
+    "category": "MARKET",
+    "query": "What information should be collected about crypto trading volume before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_337",
+    "category": "MARKET",
+    "query": "What risks can arise from crypto trading volume?"
+  },
+  {
+    "id": "MINER_338",
+    "category": "MARKET",
+    "query": "Which information about crypto trading volume is time-sensitive?"
+  },
+  {
+    "id": "MINER_339",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about crypto trading volume?"
+  },
+  {
+    "id": "MINER_340",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about crypto trading volume can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_341",
+    "category": "MARKET",
+    "query": "What information should be collected about market volatility before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_342",
+    "category": "MARKET",
+    "query": "What risks can arise from market volatility?"
+  },
+  {
+    "id": "MINER_343",
+    "category": "MARKET",
+    "query": "Which information about market volatility is time-sensitive?"
+  },
+  {
+    "id": "MINER_344",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about market volatility?"
+  },
+  {
+    "id": "MINER_345",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about market volatility can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_346",
+    "category": "MARKET",
+    "query": "What information should be collected about funding rates before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_347",
+    "category": "MARKET",
+    "query": "What risks can arise from funding rates?"
+  },
+  {
+    "id": "MINER_348",
+    "category": "MARKET",
+    "query": "Which information about funding rates is time-sensitive?"
+  },
+  {
+    "id": "MINER_349",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about funding rates?"
+  },
+  {
+    "id": "MINER_350",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about funding rates can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_351",
+    "category": "MARKET",
+    "query": "What information should be collected about open interest before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_352",
+    "category": "MARKET",
+    "query": "What risks can arise from open interest?"
+  },
+  {
+    "id": "MINER_353",
+    "category": "MARKET",
+    "query": "Which information about open interest is time-sensitive?"
+  },
+  {
+    "id": "MINER_354",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about open interest?"
+  },
+  {
+    "id": "MINER_355",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about open interest can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_356",
+    "category": "MARKET",
+    "query": "What information should be collected about basis before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_357",
+    "category": "MARKET",
+    "query": "What risks can arise from basis?"
+  },
+  {
+    "id": "MINER_358",
+    "category": "MARKET",
+    "query": "Which information about basis is time-sensitive?"
+  },
+  {
+    "id": "MINER_359",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about basis?"
+  },
+  {
+    "id": "MINER_360",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about basis can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_361",
+    "category": "MARKET",
+    "query": "What information should be collected about liquidations before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_362",
+    "category": "MARKET",
+    "query": "What risks can arise from liquidations?"
+  },
+  {
+    "id": "MINER_363",
+    "category": "MARKET",
+    "query": "Which information about liquidations is time-sensitive?"
+  },
+  {
+    "id": "MINER_364",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about liquidations?"
+  },
+  {
+    "id": "MINER_365",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about liquidations can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_366",
+    "category": "MARKET",
+    "query": "What information should be collected about market depth before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_367",
+    "category": "MARKET",
+    "query": "What risks can arise from market depth?"
+  },
+  {
+    "id": "MINER_368",
+    "category": "MARKET",
+    "query": "Which information about market depth is time-sensitive?"
+  },
+  {
+    "id": "MINER_369",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about market depth?"
+  },
+  {
+    "id": "MINER_370",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about market depth can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_371",
+    "category": "MARKET",
+    "query": "What information should be collected about order book conditions before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_372",
+    "category": "MARKET",
+    "query": "What risks can arise from order book conditions?"
+  },
+  {
+    "id": "MINER_373",
+    "category": "MARKET",
+    "query": "Which information about order book conditions is time-sensitive?"
+  },
+  {
+    "id": "MINER_374",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about order book conditions?"
+  },
+  {
+    "id": "MINER_375",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about order book conditions can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_376",
+    "category": "MARKET",
+    "query": "What information should be collected about crypto market risk before evaluating a crypto settlement route?"
+  },
+  {
+    "id": "MINER_377",
+    "category": "MARKET",
+    "query": "What risks can arise from crypto market risk?"
+  },
+  {
+    "id": "MINER_378",
+    "category": "MARKET",
+    "query": "Which information about crypto market risk is time-sensitive?"
+  },
+  {
+    "id": "MINER_379",
+    "category": "MARKET",
+    "query": "How should an automated system validate claims about crypto market risk?"
+  },
+  {
+    "id": "MINER_380",
+    "category": "MARKET",
+    "query": "What evidence is required before market information about crypto market risk can influence a settlement assessment?"
+  },
+  {
+    "id": "MINER_381",
+    "category": "MINING",
+    "query": "What information should be collected about Bitcoin mining when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_382",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with Bitcoin mining?"
+  },
+  {
+    "id": "MINER_383",
+    "category": "MINING",
+    "query": "Which aspects of Bitcoin mining require current network data?"
+  },
+  {
+    "id": "MINER_384",
+    "category": "MINING",
+    "query": "What evidence should validate claims about Bitcoin mining?"
+  },
+  {
+    "id": "MINER_385",
+    "category": "MINING",
+    "query": "How could information about Bitcoin mining be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_386",
+    "category": "MINING",
+    "query": "What information should be collected about Bitcoin hashrate when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_387",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with Bitcoin hashrate?"
+  },
+  {
+    "id": "MINER_388",
+    "category": "MINING",
+    "query": "Which aspects of Bitcoin hashrate require current network data?"
+  },
+  {
+    "id": "MINER_389",
+    "category": "MINING",
+    "query": "What evidence should validate claims about Bitcoin hashrate?"
+  },
+  {
+    "id": "MINER_390",
+    "category": "MINING",
+    "query": "How could information about Bitcoin hashrate be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_391",
+    "category": "MINING",
+    "query": "What information should be collected about Bitcoin mining difficulty when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_392",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with Bitcoin mining difficulty?"
+  },
+  {
+    "id": "MINER_393",
+    "category": "MINING",
+    "query": "Which aspects of Bitcoin mining difficulty require current network data?"
+  },
+  {
+    "id": "MINER_394",
+    "category": "MINING",
+    "query": "What evidence should validate claims about Bitcoin mining difficulty?"
+  },
+  {
+    "id": "MINER_395",
+    "category": "MINING",
+    "query": "How could information about Bitcoin mining difficulty be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_396",
+    "category": "MINING",
+    "query": "What information should be collected about Bitcoin miner economics when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_397",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with Bitcoin miner economics?"
+  },
+  {
+    "id": "MINER_398",
+    "category": "MINING",
+    "query": "Which aspects of Bitcoin miner economics require current network data?"
+  },
+  {
+    "id": "MINER_399",
+    "category": "MINING",
+    "query": "What evidence should validate claims about Bitcoin miner economics?"
+  },
+  {
+    "id": "MINER_400",
+    "category": "MINING",
+    "query": "How could information about Bitcoin miner economics be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_401",
+    "category": "MINING",
+    "query": "What information should be collected about mining profitability when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_402",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with mining profitability?"
+  },
+  {
+    "id": "MINER_403",
+    "category": "MINING",
+    "query": "Which aspects of mining profitability require current network data?"
+  },
+  {
+    "id": "MINER_404",
+    "category": "MINING",
+    "query": "What evidence should validate claims about mining profitability?"
+  },
+  {
+    "id": "MINER_405",
+    "category": "MINING",
+    "query": "How could information about mining profitability be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_406",
+    "category": "MINING",
+    "query": "What information should be collected about mining fees when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_407",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with mining fees?"
+  },
+  {
+    "id": "MINER_408",
+    "category": "MINING",
+    "query": "Which aspects of mining fees require current network data?"
+  },
+  {
+    "id": "MINER_409",
+    "category": "MINING",
+    "query": "What evidence should validate claims about mining fees?"
+  },
+  {
+    "id": "MINER_410",
+    "category": "MINING",
+    "query": "How could information about mining fees be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_411",
+    "category": "MINING",
+    "query": "What information should be collected about block production when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_412",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with block production?"
+  },
+  {
+    "id": "MINER_413",
+    "category": "MINING",
+    "query": "Which aspects of block production require current network data?"
+  },
+  {
+    "id": "MINER_414",
+    "category": "MINING",
+    "query": "What evidence should validate claims about block production?"
+  },
+  {
+    "id": "MINER_415",
+    "category": "MINING",
+    "query": "How could information about block production be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_416",
+    "category": "MINING",
+    "query": "What information should be collected about miner incentives when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_417",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with miner incentives?"
+  },
+  {
+    "id": "MINER_418",
+    "category": "MINING",
+    "query": "Which aspects of miner incentives require current network data?"
+  },
+  {
+    "id": "MINER_419",
+    "category": "MINING",
+    "query": "What evidence should validate claims about miner incentives?"
+  },
+  {
+    "id": "MINER_420",
+    "category": "MINING",
+    "query": "How could information about miner incentives be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_421",
+    "category": "MINING",
+    "query": "What information should be collected about network security when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_422",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with network security?"
+  },
+  {
+    "id": "MINER_423",
+    "category": "MINING",
+    "query": "Which aspects of network security require current network data?"
+  },
+  {
+    "id": "MINER_424",
+    "category": "MINING",
+    "query": "What evidence should validate claims about network security?"
+  },
+  {
+    "id": "MINER_425",
+    "category": "MINING",
+    "query": "How could information about network security be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_426",
+    "category": "MINING",
+    "query": "What information should be collected about proof-of-work economics when evaluating Bitcoin network conditions?"
+  },
+  {
+    "id": "MINER_427",
+    "category": "MINING",
+    "query": "What risks and uncertainties are associated with proof-of-work economics?"
+  },
+  {
+    "id": "MINER_428",
+    "category": "MINING",
+    "query": "Which aspects of proof-of-work economics require current network data?"
+  },
+  {
+    "id": "MINER_429",
+    "category": "MINING",
+    "query": "What evidence should validate claims about proof-of-work economics?"
+  },
+  {
+    "id": "MINER_430",
+    "category": "MINING",
+    "query": "How could information about proof-of-work economics be used as external intelligence without directly making a settlement decision?"
+  },
+  {
+    "id": "MINER_431",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate settlement risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_432",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with settlement risk?"
+  },
+  {
+    "id": "MINER_433",
+    "category": "RISK",
+    "query": "Which risks related to settlement risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_434",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of settlement risk?"
+  },
+  {
+    "id": "MINER_435",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding settlement risk?"
+  },
+  {
+    "id": "MINER_436",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate counterparty risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_437",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with counterparty risk?"
+  },
+  {
+    "id": "MINER_438",
+    "category": "RISK",
+    "query": "Which risks related to counterparty risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_439",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of counterparty risk?"
+  },
+  {
+    "id": "MINER_440",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding counterparty risk?"
+  },
+  {
+    "id": "MINER_441",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate custody risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_442",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with custody risk?"
+  },
+  {
+    "id": "MINER_443",
+    "category": "RISK",
+    "query": "Which risks related to custody risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_444",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of custody risk?"
+  },
+  {
+    "id": "MINER_445",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding custody risk?"
+  },
+  {
+    "id": "MINER_446",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate smart contract risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_447",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with smart contract risk?"
+  },
+  {
+    "id": "MINER_448",
+    "category": "RISK",
+    "query": "Which risks related to smart contract risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_449",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of smart contract risk?"
+  },
+  {
+    "id": "MINER_450",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding smart contract risk?"
+  },
+  {
+    "id": "MINER_451",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate bridge risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_452",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with bridge risk?"
+  },
+  {
+    "id": "MINER_453",
+    "category": "RISK",
+    "query": "Which risks related to bridge risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_454",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of bridge risk?"
+  },
+  {
+    "id": "MINER_455",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding bridge risk?"
+  },
+  {
+    "id": "MINER_456",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate fraud risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_457",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with fraud risk?"
+  },
+  {
+    "id": "MINER_458",
+    "category": "RISK",
+    "query": "Which risks related to fraud risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_459",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of fraud risk?"
+  },
+  {
+    "id": "MINER_460",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding fraud risk?"
+  },
+  {
+    "id": "MINER_461",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate operational risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_462",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with operational risk?"
+  },
+  {
+    "id": "MINER_463",
+    "category": "RISK",
+    "query": "Which risks related to operational risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_464",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of operational risk?"
+  },
+  {
+    "id": "MINER_465",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding operational risk?"
+  },
+  {
+    "id": "MINER_466",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate cybersecurity risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_467",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with cybersecurity risk?"
+  },
+  {
+    "id": "MINER_468",
+    "category": "RISK",
+    "query": "Which risks related to cybersecurity risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_469",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of cybersecurity risk?"
+  },
+  {
+    "id": "MINER_470",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding cybersecurity risk?"
+  },
+  {
+    "id": "MINER_471",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate liquidity risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_472",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with liquidity risk?"
+  },
+  {
+    "id": "MINER_473",
+    "category": "RISK",
+    "query": "Which risks related to liquidity risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_474",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of liquidity risk?"
+  },
+  {
+    "id": "MINER_475",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding liquidity risk?"
+  },
+  {
+    "id": "MINER_476",
+    "category": "RISK",
+    "query": "What information should be collected to evaluate market risk in cross-border settlement?"
+  },
+  {
+    "id": "MINER_477",
+    "category": "RISK",
+    "query": "What are the main failure modes associated with market risk?"
+  },
+  {
+    "id": "MINER_478",
+    "category": "RISK",
+    "query": "Which risks related to market risk can be measured objectively?"
+  },
+  {
+    "id": "MINER_479",
+    "category": "RISK",
+    "query": "What evidence is required before relying on an assessment of market risk?"
+  },
+  {
+    "id": "MINER_480",
+    "category": "RISK",
+    "query": "How should a deterministic engine treat uncertainty surrounding market risk?"
+  },
+  {
+    "id": "MINER_481",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate India crypto regulation?"
+  },
+  {
+    "id": "MINER_482",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing India crypto regulation?"
+  },
+  {
+    "id": "MINER_483",
+    "category": "REGULATORY",
+    "query": "Which claims about India crypto regulation require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_484",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about India crypto regulation?"
+  },
+  {
+    "id": "MINER_485",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about India crypto regulation?"
+  },
+  {
+    "id": "MINER_486",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate India cross-border payment rules?"
+  },
+  {
+    "id": "MINER_487",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing India cross-border payment rules?"
+  },
+  {
+    "id": "MINER_488",
+    "category": "REGULATORY",
+    "query": "Which claims about India cross-border payment rules require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_489",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about India cross-border payment rules?"
+  },
+  {
+    "id": "MINER_490",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about India cross-border payment rules?"
+  },
+  {
+    "id": "MINER_491",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate stablecoin regulation?"
+  },
+  {
+    "id": "MINER_492",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing stablecoin regulation?"
+  },
+  {
+    "id": "MINER_493",
+    "category": "REGULATORY",
+    "query": "Which claims about stablecoin regulation require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_494",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about stablecoin regulation?"
+  },
+  {
+    "id": "MINER_495",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about stablecoin regulation?"
+  },
+  {
+    "id": "MINER_496",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate crypto KYC requirements?"
+  },
+  {
+    "id": "MINER_497",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing crypto KYC requirements?"
+  },
+  {
+    "id": "MINER_498",
+    "category": "REGULATORY",
+    "query": "Which claims about crypto KYC requirements require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_499",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about crypto KYC requirements?"
+  },
+  {
+    "id": "MINER_500",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about crypto KYC requirements?"
+  },
+  {
+    "id": "MINER_501",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate crypto AML requirements?"
+  },
+  {
+    "id": "MINER_502",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing crypto AML requirements?"
+  },
+  {
+    "id": "MINER_503",
+    "category": "REGULATORY",
+    "query": "Which claims about crypto AML requirements require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_504",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about crypto AML requirements?"
+  },
+  {
+    "id": "MINER_505",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about crypto AML requirements?"
+  },
+  {
+    "id": "MINER_506",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate sanctions screening?"
+  },
+  {
+    "id": "MINER_507",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing sanctions screening?"
+  },
+  {
+    "id": "MINER_508",
+    "category": "REGULATORY",
+    "query": "Which claims about sanctions screening require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_509",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about sanctions screening?"
+  },
+  {
+    "id": "MINER_510",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about sanctions screening?"
+  },
+  {
+    "id": "MINER_511",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate digital asset licensing?"
+  },
+  {
+    "id": "MINER_512",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing digital asset licensing?"
+  },
+  {
+    "id": "MINER_513",
+    "category": "REGULATORY",
+    "query": "Which claims about digital asset licensing require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_514",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about digital asset licensing?"
+  },
+  {
+    "id": "MINER_515",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about digital asset licensing?"
+  },
+  {
+    "id": "MINER_516",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate cross-border compliance?"
+  },
+  {
+    "id": "MINER_517",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing cross-border compliance?"
+  },
+  {
+    "id": "MINER_518",
+    "category": "REGULATORY",
+    "query": "Which claims about cross-border compliance require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_519",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about cross-border compliance?"
+  },
+  {
+    "id": "MINER_520",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about cross-border compliance?"
+  },
+  {
+    "id": "MINER_521",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate crypto tax considerations?"
+  },
+  {
+    "id": "MINER_522",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing crypto tax considerations?"
+  },
+  {
+    "id": "MINER_523",
+    "category": "REGULATORY",
+    "query": "Which claims about crypto tax considerations require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_524",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about crypto tax considerations?"
+  },
+  {
+    "id": "MINER_525",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about crypto tax considerations?"
+  },
+  {
+    "id": "MINER_526",
+    "category": "REGULATORY",
+    "query": "What information should be collected to evaluate jurisdictional regulatory risk?"
+  },
+  {
+    "id": "MINER_527",
+    "category": "REGULATORY",
+    "query": "What regulatory uncertainties should be identified when assessing jurisdictional regulatory risk?"
+  },
+  {
+    "id": "MINER_528",
+    "category": "REGULATORY",
+    "query": "Which claims about jurisdictional regulatory risk require jurisdiction-specific verification?"
+  },
+  {
+    "id": "MINER_529",
+    "category": "REGULATORY",
+    "query": "What evidence should be obtained before relying on information about jurisdictional regulatory risk?"
+  },
+  {
+    "id": "MINER_530",
+    "category": "REGULATORY",
+    "query": "How should an automated settlement system treat unverified information about jurisdictional regulatory risk?"
+  }
+]

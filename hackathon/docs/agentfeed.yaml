@@ -1,0 +1,83 @@
+version: "1"
+kind: miner
+id: 402
+slug: agentfeed-crypto-markets
+protocol: generic
+name: AgentFeed Crypto Market Intelligence
+description: >
+  Live crypto market data and risk signals: DeFi TVL, perp market structure (funding, open interest, positioning, basis, volatility), liquidation analytics from a complete unthrottled Bybit tape across ~600 USDT perps, and SPL token rug-risk scoring. Backed by proprietary collectors running since July 2026 whose history cannot be reconstructed from any public source.
+
+base_url: https://x402.ochinimus.app
+
+docs:
+  website: https://ochinimus.app
+  documentation: https://x402.ochinimus.app/
+  repository: https://github.com/seekdaseek/agentfeed
+
+auth:
+  type: none
+
+rate_limit_per_sec: 5
+cache_ttl_sec: 10
+circuit_threshold: 5
+circuit_cooldown_seconds: 30
+
+endpoints:
+  - path: /tvl
+    external_path: /telegraph/api/tvl
+    method: GET
+    description: >
+      TVL for any DeFi protocol with 1d and 7d change, or a top-15 chain ranking. DefiLlama-backed.
+    param_map:
+      protocol: target
+      slug: target
+      name: target
+  - path: /trade-context
+    external_path: /telegraph/api/trade-context
+    method: GET
+    description: Full market state - prices, funding, fear and greed, positioning, liquidations.
+  - path: /open-interest
+    external_path: /telegraph/api/open-interest
+    method: GET
+    description: Open interest for any USDT perp in base and USD with 1h and 24h change.
+  - path: /funding-cross
+    external_path: /telegraph/api/funding-cross
+    method: GET
+    description: >
+      Funding for any USDT perp across Bybit, OKX and Hyperliquid with cross-venue spread.
+  - path: /volatility
+    external_path: /telegraph/api/volatility
+    method: GET
+    description: >
+      Realized volatility for any USDT perp, 7d and 30d annualized, plus today's range.
+  - path: /basis
+    external_path: /telegraph/api/basis
+    method: GET
+    description: Perp-vs-spot basis for any USDT pair with contango or backwardation read.
+  - path: /top-movers
+    external_path: /telegraph/api/top-movers
+    method: GET
+    description: 24h top gainers and losers across ~600 USDT perps with a liquidity floor.
+  - path: /liquidation-leaders
+    external_path: /telegraph/api/liquidation-leaders
+    method: GET
+    description: Top symbols by liquidation USD across ~600 USDT perps with long/short split.
+  - path: /squeeze-score
+    external_path: /telegraph/api/squeeze-score
+    method: GET
+    description: Short-squeeze and long-flush score 0-100 for any USDT perp.
+  - path: /token-risk
+    external_path: /telegraph/api/token-risk
+    method: GET
+    description: >
+      SPL token rug-risk signals - mint and freeze authority status, top-holder concentration, risk flags.
+  - path: /token-holders
+    external_path: /telegraph/api/token-holders
+    method: GET
+    description: >
+      Top holders of any SPL token with per-account share and top1/top5/top10 concentration.
+
+semantics:
+  supported_intents:
+    - FINANCIAL_DATA
+    - FRAUD_DETECTION

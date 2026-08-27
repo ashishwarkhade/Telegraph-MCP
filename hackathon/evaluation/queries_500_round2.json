@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "ROUND2_001",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about DeFi total value locked?"
+  },
+  {
+    "id": "ROUND2_002",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate DeFi total value locked?"
+  },
+  {
+    "id": "ROUND2_003",
+    "category": "TVL",
+    "query": "What risks can be identified from DeFi total value locked?"
+  },
+  {
+    "id": "ROUND2_004",
+    "category": "TVL",
+    "query": "How could DeFi total value locked affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_005",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on DeFi total value locked, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_006",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about protocol TVL?"
+  },
+  {
+    "id": "ROUND2_007",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate protocol TVL?"
+  },
+  {
+    "id": "ROUND2_008",
+    "category": "TVL",
+    "query": "What risks can be identified from protocol TVL?"
+  },
+  {
+    "id": "ROUND2_009",
+    "category": "TVL",
+    "query": "How could protocol TVL affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_010",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on protocol TVL, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_011",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about chain TVL?"
+  },
+  {
+    "id": "ROUND2_012",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate chain TVL?"
+  },
+  {
+    "id": "ROUND2_013",
+    "category": "TVL",
+    "query": "What risks can be identified from chain TVL?"
+  },
+  {
+    "id": "ROUND2_014",
+    "category": "TVL",
+    "query": "How could chain TVL affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_015",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on chain TVL, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_016",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about TVL changes over 24 hours?"
+  },
+  {
+    "id": "ROUND2_017",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate TVL changes over 24 hours?"
+  },
+  {
+    "id": "ROUND2_018",
+    "category": "TVL",
+    "query": "What risks can be identified from TVL changes over 24 hours?"
+  },
+  {
+    "id": "ROUND2_019",
+    "category": "TVL",
+    "query": "How could TVL changes over 24 hours affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_020",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on TVL changes over 24 hours, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_021",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about TVL changes over 7 days?"
+  },
+  {
+    "id": "ROUND2_022",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate TVL changes over 7 days?"
+  },
+  {
+    "id": "ROUND2_023",
+    "category": "TVL",
+    "query": "What risks can be identified from TVL changes over 7 days?"
+  },
+  {
+    "id": "ROUND2_024",
+    "category": "TVL",
+    "query": "How could TVL changes over 7 days affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_025",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on TVL changes over 7 days, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_026",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about DeFi liquidity?"
+  },
+  {
+    "id": "ROUND2_027",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate DeFi liquidity?"
+  },
+  {
+    "id": "ROUND2_028",
+    "category": "TVL",
+    "query": "What risks can be identified from DeFi liquidity?"
+  },
+  {
+    "id": "ROUND2_029",
+    "category": "TVL",
+    "query": "How could DeFi liquidity affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_030",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on DeFi liquidity, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_031",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_032",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_033",
+    "category": "TVL",
+    "query": "What risks can be identified from protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_034",
+    "category": "TVL",
+    "query": "How could protocol liquidity concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_035",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on protocol liquidity concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_036",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_037",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_038",
+    "category": "TVL",
+    "query": "What risks can be identified from chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND2_039",
+    "category": "TVL",
+    "query": "How could chain liquidity concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_040",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on chain liquidity concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_041",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about rapid TVL decline?"
+  },
+  {
+    "id": "ROUND2_042",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate rapid TVL decline?"
+  },
+  {
+    "id": "ROUND2_043",
+    "category": "TVL",
+    "query": "What risks can be identified from rapid TVL decline?"
+  },
+  {
+    "id": "ROUND2_044",
+    "category": "TVL",
+    "query": "How could rapid TVL decline affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_045",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on rapid TVL decline, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_046",
+    "category": "TVL",
+    "query": "What information does a financial intelligence system need about rapid TVL growth?"
+  },
+  {
+    "id": "ROUND2_047",
+    "category": "TVL",
+    "query": "What current data should be collected to evaluate rapid TVL growth?"
+  },
+  {
+    "id": "ROUND2_048",
+    "category": "TVL",
+    "query": "What risks can be identified from rapid TVL growth?"
+  },
+  {
+    "id": "ROUND2_049",
+    "category": "TVL",
+    "query": "How could rapid TVL growth affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_050",
+    "category": "TVL",
+    "query": "What evidence should be collected before relying on rapid TVL growth, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_051",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about crypto market prices?"
+  },
+  {
+    "id": "ROUND2_052",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate crypto market prices?"
+  },
+  {
+    "id": "ROUND2_053",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from crypto market prices?"
+  },
+  {
+    "id": "ROUND2_054",
+    "category": "TRADE_CONTEXT",
+    "query": "How could crypto market prices affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_055",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on crypto market prices, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_056",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about crypto funding conditions?"
+  },
+  {
+    "id": "ROUND2_057",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate crypto funding conditions?"
+  },
+  {
+    "id": "ROUND2_058",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from crypto funding conditions?"
+  },
+  {
+    "id": "ROUND2_059",
+    "category": "TRADE_CONTEXT",
+    "query": "How could crypto funding conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_060",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on crypto funding conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_061",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about market positioning?"
+  },
+  {
+    "id": "ROUND2_062",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate market positioning?"
+  },
+  {
+    "id": "ROUND2_063",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from market positioning?"
+  },
+  {
+    "id": "ROUND2_064",
+    "category": "TRADE_CONTEXT",
+    "query": "How could market positioning affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_065",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on market positioning, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_066",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about fear and greed conditions?"
+  },
+  {
+    "id": "ROUND2_067",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate fear and greed conditions?"
+  },
+  {
+    "id": "ROUND2_068",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from fear and greed conditions?"
+  },
+  {
+    "id": "ROUND2_069",
+    "category": "TRADE_CONTEXT",
+    "query": "How could fear and greed conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_070",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on fear and greed conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_071",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about crypto liquidations?"
+  },
+  {
+    "id": "ROUND2_072",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate crypto liquidations?"
+  },
+  {
+    "id": "ROUND2_073",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from crypto liquidations?"
+  },
+  {
+    "id": "ROUND2_074",
+    "category": "TRADE_CONTEXT",
+    "query": "How could crypto liquidations affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_075",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on crypto liquidations, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_076",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about overall market state?"
+  },
+  {
+    "id": "ROUND2_077",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate overall market state?"
+  },
+  {
+    "id": "ROUND2_078",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from overall market state?"
+  },
+  {
+    "id": "ROUND2_079",
+    "category": "TRADE_CONTEXT",
+    "query": "How could overall market state affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_080",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on overall market state, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_081",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about Bitcoin market conditions?"
+  },
+  {
+    "id": "ROUND2_082",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate Bitcoin market conditions?"
+  },
+  {
+    "id": "ROUND2_083",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from Bitcoin market conditions?"
+  },
+  {
+    "id": "ROUND2_084",
+    "category": "TRADE_CONTEXT",
+    "query": "How could Bitcoin market conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_085",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on Bitcoin market conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_086",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about Ethereum market conditions?"
+  },
+  {
+    "id": "ROUND2_087",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate Ethereum market conditions?"
+  },
+  {
+    "id": "ROUND2_088",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from Ethereum market conditions?"
+  },
+  {
+    "id": "ROUND2_089",
+    "category": "TRADE_CONTEXT",
+    "query": "How could Ethereum market conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_090",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on Ethereum market conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_091",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about large crypto market movements?"
+  },
+  {
+    "id": "ROUND2_092",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate large crypto market movements?"
+  },
+  {
+    "id": "ROUND2_093",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from large crypto market movements?"
+  },
+  {
+    "id": "ROUND2_094",
+    "category": "TRADE_CONTEXT",
+    "query": "How could large crypto market movements affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_095",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on large crypto market movements, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_096",
+    "category": "TRADE_CONTEXT",
+    "query": "What information does a financial intelligence system need about combined crypto market risk indicators?"
+  },
+  {
+    "id": "ROUND2_097",
+    "category": "TRADE_CONTEXT",
+    "query": "What current data should be collected to evaluate combined crypto market risk indicators?"
+  },
+  {
+    "id": "ROUND2_098",
+    "category": "TRADE_CONTEXT",
+    "query": "What risks can be identified from combined crypto market risk indicators?"
+  },
+  {
+    "id": "ROUND2_099",
+    "category": "TRADE_CONTEXT",
+    "query": "How could combined crypto market risk indicators affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_100",
+    "category": "TRADE_CONTEXT",
+    "query": "What evidence should be collected before relying on combined crypto market risk indicators, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_101",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND2_102",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND2_103",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND2_104",
+    "category": "OPEN_INTEREST",
+    "query": "How could Bitcoin open interest affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_105",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on Bitcoin open interest, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_106",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about Ethereum open interest?"
+  },
+  {
+    "id": "ROUND2_107",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate Ethereum open interest?"
+  },
+  {
+    "id": "ROUND2_108",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from Ethereum open interest?"
+  },
+  {
+    "id": "ROUND2_109",
+    "category": "OPEN_INTEREST",
+    "query": "How could Ethereum open interest affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_110",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on Ethereum open interest, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_111",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND2_112",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND2_113",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND2_114",
+    "category": "OPEN_INTEREST",
+    "query": "How could USDT perpetual open interest affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_115",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on USDT perpetual open interest, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_116",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about changes in open interest?"
+  },
+  {
+    "id": "ROUND2_117",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate changes in open interest?"
+  },
+  {
+    "id": "ROUND2_118",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from changes in open interest?"
+  },
+  {
+    "id": "ROUND2_119",
+    "category": "OPEN_INTEREST",
+    "query": "How could changes in open interest affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_120",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on changes in open interest, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_121",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_122",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_123",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_124",
+    "category": "OPEN_INTEREST",
+    "query": "How could one-hour open interest changes affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_125",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on one-hour open interest changes, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_126",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_127",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_128",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND2_129",
+    "category": "OPEN_INTEREST",
+    "query": "How could 24-hour open interest changes affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_130",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on 24-hour open interest changes, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_131",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about rapid open interest growth?"
+  },
+  {
+    "id": "ROUND2_132",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate rapid open interest growth?"
+  },
+  {
+    "id": "ROUND2_133",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from rapid open interest growth?"
+  },
+  {
+    "id": "ROUND2_134",
+    "category": "OPEN_INTEREST",
+    "query": "How could rapid open interest growth affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_135",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on rapid open interest growth, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_136",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about rapid open interest decline?"
+  },
+  {
+    "id": "ROUND2_137",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate rapid open interest decline?"
+  },
+  {
+    "id": "ROUND2_138",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from rapid open interest decline?"
+  },
+  {
+    "id": "ROUND2_139",
+    "category": "OPEN_INTEREST",
+    "query": "How could rapid open interest decline affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_140",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on rapid open interest decline, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_141",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about open interest and market price?"
+  },
+  {
+    "id": "ROUND2_142",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate open interest and market price?"
+  },
+  {
+    "id": "ROUND2_143",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from open interest and market price?"
+  },
+  {
+    "id": "ROUND2_144",
+    "category": "OPEN_INTEREST",
+    "query": "How could open interest and market price affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_145",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on open interest and market price, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_146",
+    "category": "OPEN_INTEREST",
+    "query": "What information does a financial intelligence system need about open interest as a leverage indicator?"
+  },
+  {
+    "id": "ROUND2_147",
+    "category": "OPEN_INTEREST",
+    "query": "What current data should be collected to evaluate open interest as a leverage indicator?"
+  },
+  {
+    "id": "ROUND2_148",
+    "category": "OPEN_INTEREST",
+    "query": "What risks can be identified from open interest as a leverage indicator?"
+  },
+  {
+    "id": "ROUND2_149",
+    "category": "OPEN_INTEREST",
+    "query": "How could open interest as a leverage indicator affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_150",
+    "category": "OPEN_INTEREST",
+    "query": "What evidence should be collected before relying on open interest as a leverage indicator, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_151",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND2_152",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND2_153",
+    "category": "FUNDING",
+    "query": "What risks can be identified from Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND2_154",
+    "category": "FUNDING",
+    "query": "How could Bitcoin funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_155",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on Bitcoin funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_156",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND2_157",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND2_158",
+    "category": "FUNDING",
+    "query": "What risks can be identified from Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND2_159",
+    "category": "FUNDING",
+    "query": "How could Ethereum funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_160",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on Ethereum funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_161",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND2_162",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND2_163",
+    "category": "FUNDING",
+    "query": "What risks can be identified from USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND2_164",
+    "category": "FUNDING",
+    "query": "How could USDT perpetual funding affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_165",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on USDT perpetual funding, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_166",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about funding differences between exchanges?"
+  },
+  {
+    "id": "ROUND2_167",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate funding differences between exchanges?"
+  },
+  {
+    "id": "ROUND2_168",
+    "category": "FUNDING",
+    "query": "What risks can be identified from funding differences between exchanges?"
+  },
+  {
+    "id": "ROUND2_169",
+    "category": "FUNDING",
+    "query": "How could funding differences between exchanges affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_170",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on funding differences between exchanges, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_171",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about Bybit funding rates?"
+  },
+  {
+    "id": "ROUND2_172",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate Bybit funding rates?"
+  },
+  {
+    "id": "ROUND2_173",
+    "category": "FUNDING",
+    "query": "What risks can be identified from Bybit funding rates?"
+  },
+  {
+    "id": "ROUND2_174",
+    "category": "FUNDING",
+    "query": "How could Bybit funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_175",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on Bybit funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_176",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about OKX funding rates?"
+  },
+  {
+    "id": "ROUND2_177",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate OKX funding rates?"
+  },
+  {
+    "id": "ROUND2_178",
+    "category": "FUNDING",
+    "query": "What risks can be identified from OKX funding rates?"
+  },
+  {
+    "id": "ROUND2_179",
+    "category": "FUNDING",
+    "query": "How could OKX funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_180",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on OKX funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_181",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about Hyperliquid funding rates?"
+  },
+  {
+    "id": "ROUND2_182",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate Hyperliquid funding rates?"
+  },
+  {
+    "id": "ROUND2_183",
+    "category": "FUNDING",
+    "query": "What risks can be identified from Hyperliquid funding rates?"
+  },
+  {
+    "id": "ROUND2_184",
+    "category": "FUNDING",
+    "query": "How could Hyperliquid funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_185",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on Hyperliquid funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_186",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about cross-exchange funding spreads?"
+  },
+  {
+    "id": "ROUND2_187",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate cross-exchange funding spreads?"
+  },
+  {
+    "id": "ROUND2_188",
+    "category": "FUNDING",
+    "query": "What risks can be identified from cross-exchange funding spreads?"
+  },
+  {
+    "id": "ROUND2_189",
+    "category": "FUNDING",
+    "query": "How could cross-exchange funding spreads affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_190",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on cross-exchange funding spreads, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_191",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about extreme positive funding?"
+  },
+  {
+    "id": "ROUND2_192",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate extreme positive funding?"
+  },
+  {
+    "id": "ROUND2_193",
+    "category": "FUNDING",
+    "query": "What risks can be identified from extreme positive funding?"
+  },
+  {
+    "id": "ROUND2_194",
+    "category": "FUNDING",
+    "query": "How could extreme positive funding affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_195",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on extreme positive funding, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_196",
+    "category": "FUNDING",
+    "query": "What information does a financial intelligence system need about extreme negative funding?"
+  },
+  {
+    "id": "ROUND2_197",
+    "category": "FUNDING",
+    "query": "What current data should be collected to evaluate extreme negative funding?"
+  },
+  {
+    "id": "ROUND2_198",
+    "category": "FUNDING",
+    "query": "What risks can be identified from extreme negative funding?"
+  },
+  {
+    "id": "ROUND2_199",
+    "category": "FUNDING",
+    "query": "How could extreme negative funding affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_200",
+    "category": "FUNDING",
+    "query": "What evidence should be collected before relying on extreme negative funding, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_201",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND2_202",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND2_203",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND2_204",
+    "category": "VOLATILITY",
+    "query": "How could Bitcoin realized volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_205",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on Bitcoin realized volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_206",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND2_207",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND2_208",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND2_209",
+    "category": "VOLATILITY",
+    "query": "How could Ethereum realized volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_210",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on Ethereum realized volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_211",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_212",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_213",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_214",
+    "category": "VOLATILITY",
+    "query": "How could 7-day realized volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_215",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on 7-day realized volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_216",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_217",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_218",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND2_219",
+    "category": "VOLATILITY",
+    "query": "How could 30-day realized volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_220",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on 30-day realized volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_221",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about daily trading range?"
+  },
+  {
+    "id": "ROUND2_222",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate daily trading range?"
+  },
+  {
+    "id": "ROUND2_223",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from daily trading range?"
+  },
+  {
+    "id": "ROUND2_224",
+    "category": "VOLATILITY",
+    "query": "How could daily trading range affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_225",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on daily trading range, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_226",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about rapid volatility increases?"
+  },
+  {
+    "id": "ROUND2_227",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate rapid volatility increases?"
+  },
+  {
+    "id": "ROUND2_228",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from rapid volatility increases?"
+  },
+  {
+    "id": "ROUND2_229",
+    "category": "VOLATILITY",
+    "query": "How could rapid volatility increases affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_230",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on rapid volatility increases, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_231",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about unusually low volatility?"
+  },
+  {
+    "id": "ROUND2_232",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate unusually low volatility?"
+  },
+  {
+    "id": "ROUND2_233",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from unusually low volatility?"
+  },
+  {
+    "id": "ROUND2_234",
+    "category": "VOLATILITY",
+    "query": "How could unusually low volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_235",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on unusually low volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_236",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about unusually high volatility?"
+  },
+  {
+    "id": "ROUND2_237",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate unusually high volatility?"
+  },
+  {
+    "id": "ROUND2_238",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from unusually high volatility?"
+  },
+  {
+    "id": "ROUND2_239",
+    "category": "VOLATILITY",
+    "query": "How could unusually high volatility affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_240",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on unusually high volatility, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_241",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about volatility and settlement risk?"
+  },
+  {
+    "id": "ROUND2_242",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate volatility and settlement risk?"
+  },
+  {
+    "id": "ROUND2_243",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from volatility and settlement risk?"
+  },
+  {
+    "id": "ROUND2_244",
+    "category": "VOLATILITY",
+    "query": "How could volatility and settlement risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_245",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on volatility and settlement risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_246",
+    "category": "VOLATILITY",
+    "query": "What information does a financial intelligence system need about volatility as a market stress indicator?"
+  },
+  {
+    "id": "ROUND2_247",
+    "category": "VOLATILITY",
+    "query": "What current data should be collected to evaluate volatility as a market stress indicator?"
+  },
+  {
+    "id": "ROUND2_248",
+    "category": "VOLATILITY",
+    "query": "What risks can be identified from volatility as a market stress indicator?"
+  },
+  {
+    "id": "ROUND2_249",
+    "category": "VOLATILITY",
+    "query": "How could volatility as a market stress indicator affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_250",
+    "category": "VOLATILITY",
+    "query": "What evidence should be collected before relying on volatility as a market stress indicator, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_251",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND2_252",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND2_253",
+    "category": "BASIS",
+    "query": "What risks can be identified from Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND2_254",
+    "category": "BASIS",
+    "query": "How could Bitcoin perpetual basis affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_255",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on Bitcoin perpetual basis, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_256",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND2_257",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND2_258",
+    "category": "BASIS",
+    "query": "What risks can be identified from Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND2_259",
+    "category": "BASIS",
+    "query": "How could Ethereum perpetual basis affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_260",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on Ethereum perpetual basis, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_261",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND2_262",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND2_263",
+    "category": "BASIS",
+    "query": "What risks can be identified from perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND2_264",
+    "category": "BASIS",
+    "query": "How could perpetual versus spot prices affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_265",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on perpetual versus spot prices, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_266",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about crypto contango?"
+  },
+  {
+    "id": "ROUND2_267",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate crypto contango?"
+  },
+  {
+    "id": "ROUND2_268",
+    "category": "BASIS",
+    "query": "What risks can be identified from crypto contango?"
+  },
+  {
+    "id": "ROUND2_269",
+    "category": "BASIS",
+    "query": "How could crypto contango affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_270",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on crypto contango, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_271",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about crypto backwardation?"
+  },
+  {
+    "id": "ROUND2_272",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate crypto backwardation?"
+  },
+  {
+    "id": "ROUND2_273",
+    "category": "BASIS",
+    "query": "What risks can be identified from crypto backwardation?"
+  },
+  {
+    "id": "ROUND2_274",
+    "category": "BASIS",
+    "query": "How could crypto backwardation affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_275",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on crypto backwardation, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_276",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about positive perpetual basis?"
+  },
+  {
+    "id": "ROUND2_277",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate positive perpetual basis?"
+  },
+  {
+    "id": "ROUND2_278",
+    "category": "BASIS",
+    "query": "What risks can be identified from positive perpetual basis?"
+  },
+  {
+    "id": "ROUND2_279",
+    "category": "BASIS",
+    "query": "How could positive perpetual basis affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_280",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on positive perpetual basis, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_281",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about negative perpetual basis?"
+  },
+  {
+    "id": "ROUND2_282",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate negative perpetual basis?"
+  },
+  {
+    "id": "ROUND2_283",
+    "category": "BASIS",
+    "query": "What risks can be identified from negative perpetual basis?"
+  },
+  {
+    "id": "ROUND2_284",
+    "category": "BASIS",
+    "query": "How could negative perpetual basis affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_285",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on negative perpetual basis, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_286",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about rapid basis changes?"
+  },
+  {
+    "id": "ROUND2_287",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate rapid basis changes?"
+  },
+  {
+    "id": "ROUND2_288",
+    "category": "BASIS",
+    "query": "What risks can be identified from rapid basis changes?"
+  },
+  {
+    "id": "ROUND2_289",
+    "category": "BASIS",
+    "query": "How could rapid basis changes affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_290",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on rapid basis changes, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_291",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about basis and leverage conditions?"
+  },
+  {
+    "id": "ROUND2_292",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate basis and leverage conditions?"
+  },
+  {
+    "id": "ROUND2_293",
+    "category": "BASIS",
+    "query": "What risks can be identified from basis and leverage conditions?"
+  },
+  {
+    "id": "ROUND2_294",
+    "category": "BASIS",
+    "query": "How could basis and leverage conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_295",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on basis and leverage conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_296",
+    "category": "BASIS",
+    "query": "What information does a financial intelligence system need about basis as a market risk indicator?"
+  },
+  {
+    "id": "ROUND2_297",
+    "category": "BASIS",
+    "query": "What current data should be collected to evaluate basis as a market risk indicator?"
+  },
+  {
+    "id": "ROUND2_298",
+    "category": "BASIS",
+    "query": "What risks can be identified from basis as a market risk indicator?"
+  },
+  {
+    "id": "ROUND2_299",
+    "category": "BASIS",
+    "query": "How could basis as a market risk indicator affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_300",
+    "category": "BASIS",
+    "query": "What evidence should be collected before relying on basis as a market risk indicator, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_301",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about largest crypto gainers?"
+  },
+  {
+    "id": "ROUND2_302",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate largest crypto gainers?"
+  },
+  {
+    "id": "ROUND2_303",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from largest crypto gainers?"
+  },
+  {
+    "id": "ROUND2_304",
+    "category": "TOP_MOVERS",
+    "query": "How could largest crypto gainers affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_305",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on largest crypto gainers, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_306",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about largest crypto losers?"
+  },
+  {
+    "id": "ROUND2_307",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate largest crypto losers?"
+  },
+  {
+    "id": "ROUND2_308",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from largest crypto losers?"
+  },
+  {
+    "id": "ROUND2_309",
+    "category": "TOP_MOVERS",
+    "query": "How could largest crypto losers affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_310",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on largest crypto losers, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_311",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND2_312",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND2_313",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND2_314",
+    "category": "TOP_MOVERS",
+    "query": "How could 24-hour crypto price movers affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_315",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on 24-hour crypto price movers, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_316",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about large percentage price increases?"
+  },
+  {
+    "id": "ROUND2_317",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate large percentage price increases?"
+  },
+  {
+    "id": "ROUND2_318",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from large percentage price increases?"
+  },
+  {
+    "id": "ROUND2_319",
+    "category": "TOP_MOVERS",
+    "query": "How could large percentage price increases affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_320",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on large percentage price increases, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_321",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about large percentage price decreases?"
+  },
+  {
+    "id": "ROUND2_322",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate large percentage price decreases?"
+  },
+  {
+    "id": "ROUND2_323",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from large percentage price decreases?"
+  },
+  {
+    "id": "ROUND2_324",
+    "category": "TOP_MOVERS",
+    "query": "How could large percentage price decreases affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_325",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on large percentage price decreases, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_326",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND2_327",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND2_328",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND2_329",
+    "category": "TOP_MOVERS",
+    "query": "How could unusual crypto price movements affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_330",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on unusual crypto price movements, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_331",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about high-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_332",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate high-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_333",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from high-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_334",
+    "category": "TOP_MOVERS",
+    "query": "How could high-liquidity crypto movers affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_335",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on high-liquidity crypto movers, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_336",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about low-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_337",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate low-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_338",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from low-liquidity crypto movers?"
+  },
+  {
+    "id": "ROUND2_339",
+    "category": "TOP_MOVERS",
+    "query": "How could low-liquidity crypto movers affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_340",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on low-liquidity crypto movers, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_341",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND2_342",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND2_343",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND2_344",
+    "category": "TOP_MOVERS",
+    "query": "How could crypto momentum conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_345",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on crypto momentum conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_346",
+    "category": "TOP_MOVERS",
+    "query": "What information does a financial intelligence system need about extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND2_347",
+    "category": "TOP_MOVERS",
+    "query": "What current data should be collected to evaluate extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND2_348",
+    "category": "TOP_MOVERS",
+    "query": "What risks can be identified from extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND2_349",
+    "category": "TOP_MOVERS",
+    "query": "How could extreme short-term price movements affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_350",
+    "category": "TOP_MOVERS",
+    "query": "What evidence should be collected before relying on extreme short-term price movements, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_351",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND2_352",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND2_353",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND2_354",
+    "category": "LIQUIDATIONS",
+    "query": "How could Bitcoin liquidations affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_355",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on Bitcoin liquidations, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_356",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND2_357",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND2_358",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND2_359",
+    "category": "LIQUIDATIONS",
+    "query": "How could Ethereum liquidations affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_360",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on Ethereum liquidations, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_361",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about largest crypto liquidation events?"
+  },
+  {
+    "id": "ROUND2_362",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate largest crypto liquidation events?"
+  },
+  {
+    "id": "ROUND2_363",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from largest crypto liquidation events?"
+  },
+  {
+    "id": "ROUND2_364",
+    "category": "LIQUIDATIONS",
+    "query": "How could largest crypto liquidation events affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_365",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on largest crypto liquidation events, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_366",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about long liquidation activity?"
+  },
+  {
+    "id": "ROUND2_367",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate long liquidation activity?"
+  },
+  {
+    "id": "ROUND2_368",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from long liquidation activity?"
+  },
+  {
+    "id": "ROUND2_369",
+    "category": "LIQUIDATIONS",
+    "query": "How could long liquidation activity affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_370",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on long liquidation activity, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_371",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about short liquidation activity?"
+  },
+  {
+    "id": "ROUND2_372",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate short liquidation activity?"
+  },
+  {
+    "id": "ROUND2_373",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from short liquidation activity?"
+  },
+  {
+    "id": "ROUND2_374",
+    "category": "LIQUIDATIONS",
+    "query": "How could short liquidation activity affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_375",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on short liquidation activity, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_376",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about liquidation concentration by symbol?"
+  },
+  {
+    "id": "ROUND2_377",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate liquidation concentration by symbol?"
+  },
+  {
+    "id": "ROUND2_378",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from liquidation concentration by symbol?"
+  },
+  {
+    "id": "ROUND2_379",
+    "category": "LIQUIDATIONS",
+    "query": "How could liquidation concentration by symbol affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_380",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on liquidation concentration by symbol, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_381",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND2_382",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND2_383",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND2_384",
+    "category": "LIQUIDATIONS",
+    "query": "How could rapid liquidation increases affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_385",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on rapid liquidation increases, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_386",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about liquidation activity across perpetual markets?"
+  },
+  {
+    "id": "ROUND2_387",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate liquidation activity across perpetual markets?"
+  },
+  {
+    "id": "ROUND2_388",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from liquidation activity across perpetual markets?"
+  },
+  {
+    "id": "ROUND2_389",
+    "category": "LIQUIDATIONS",
+    "query": "How could liquidation activity across perpetual markets affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_390",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on liquidation activity across perpetual markets, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_391",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about liquidations as a market stress signal?"
+  },
+  {
+    "id": "ROUND2_392",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate liquidations as a market stress signal?"
+  },
+  {
+    "id": "ROUND2_393",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from liquidations as a market stress signal?"
+  },
+  {
+    "id": "ROUND2_394",
+    "category": "LIQUIDATIONS",
+    "query": "How could liquidations as a market stress signal affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_395",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on liquidations as a market stress signal, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_396",
+    "category": "LIQUIDATIONS",
+    "query": "What information does a financial intelligence system need about liquidation imbalance?"
+  },
+  {
+    "id": "ROUND2_397",
+    "category": "LIQUIDATIONS",
+    "query": "What current data should be collected to evaluate liquidation imbalance?"
+  },
+  {
+    "id": "ROUND2_398",
+    "category": "LIQUIDATIONS",
+    "query": "What risks can be identified from liquidation imbalance?"
+  },
+  {
+    "id": "ROUND2_399",
+    "category": "LIQUIDATIONS",
+    "query": "How could liquidation imbalance affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_400",
+    "category": "LIQUIDATIONS",
+    "query": "What evidence should be collected before relying on liquidation imbalance, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_401",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about Bitcoin short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_402",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate Bitcoin short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_403",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from Bitcoin short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_404",
+    "category": "SQUEEZE",
+    "query": "How could Bitcoin short squeeze risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_405",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on Bitcoin short squeeze risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_406",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about Bitcoin long flush risk?"
+  },
+  {
+    "id": "ROUND2_407",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate Bitcoin long flush risk?"
+  },
+  {
+    "id": "ROUND2_408",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from Bitcoin long flush risk?"
+  },
+  {
+    "id": "ROUND2_409",
+    "category": "SQUEEZE",
+    "query": "How could Bitcoin long flush risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_410",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on Bitcoin long flush risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_411",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about Ethereum short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_412",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate Ethereum short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_413",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from Ethereum short squeeze risk?"
+  },
+  {
+    "id": "ROUND2_414",
+    "category": "SQUEEZE",
+    "query": "How could Ethereum short squeeze risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_415",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on Ethereum short squeeze risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_416",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about Ethereum long flush risk?"
+  },
+  {
+    "id": "ROUND2_417",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate Ethereum long flush risk?"
+  },
+  {
+    "id": "ROUND2_418",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from Ethereum long flush risk?"
+  },
+  {
+    "id": "ROUND2_419",
+    "category": "SQUEEZE",
+    "query": "How could Ethereum long flush risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_420",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on Ethereum long flush risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_421",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about crypto squeeze scores?"
+  },
+  {
+    "id": "ROUND2_422",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate crypto squeeze scores?"
+  },
+  {
+    "id": "ROUND2_423",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from crypto squeeze scores?"
+  },
+  {
+    "id": "ROUND2_424",
+    "category": "SQUEEZE",
+    "query": "How could crypto squeeze scores affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_425",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on crypto squeeze scores, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_426",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about short squeeze conditions?"
+  },
+  {
+    "id": "ROUND2_427",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate short squeeze conditions?"
+  },
+  {
+    "id": "ROUND2_428",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from short squeeze conditions?"
+  },
+  {
+    "id": "ROUND2_429",
+    "category": "SQUEEZE",
+    "query": "How could short squeeze conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_430",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on short squeeze conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_431",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about long flush conditions?"
+  },
+  {
+    "id": "ROUND2_432",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate long flush conditions?"
+  },
+  {
+    "id": "ROUND2_433",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from long flush conditions?"
+  },
+  {
+    "id": "ROUND2_434",
+    "category": "SQUEEZE",
+    "query": "How could long flush conditions affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_435",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on long flush conditions, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_436",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about extreme squeeze indicators?"
+  },
+  {
+    "id": "ROUND2_437",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate extreme squeeze indicators?"
+  },
+  {
+    "id": "ROUND2_438",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from extreme squeeze indicators?"
+  },
+  {
+    "id": "ROUND2_439",
+    "category": "SQUEEZE",
+    "query": "How could extreme squeeze indicators affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_440",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on extreme squeeze indicators, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_441",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about squeeze risk and open interest?"
+  },
+  {
+    "id": "ROUND2_442",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate squeeze risk and open interest?"
+  },
+  {
+    "id": "ROUND2_443",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from squeeze risk and open interest?"
+  },
+  {
+    "id": "ROUND2_444",
+    "category": "SQUEEZE",
+    "query": "How could squeeze risk and open interest affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_445",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on squeeze risk and open interest, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_446",
+    "category": "SQUEEZE",
+    "query": "What information does a financial intelligence system need about squeeze risk and funding rates?"
+  },
+  {
+    "id": "ROUND2_447",
+    "category": "SQUEEZE",
+    "query": "What current data should be collected to evaluate squeeze risk and funding rates?"
+  },
+  {
+    "id": "ROUND2_448",
+    "category": "SQUEEZE",
+    "query": "What risks can be identified from squeeze risk and funding rates?"
+  },
+  {
+    "id": "ROUND2_449",
+    "category": "SQUEEZE",
+    "query": "How could squeeze risk and funding rates affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_450",
+    "category": "SQUEEZE",
+    "query": "What evidence should be collected before relying on squeeze risk and funding rates, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_451",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about Solana token rug risk?"
+  },
+  {
+    "id": "ROUND2_452",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate Solana token rug risk?"
+  },
+  {
+    "id": "ROUND2_453",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from Solana token rug risk?"
+  },
+  {
+    "id": "ROUND2_454",
+    "category": "TOKEN_RISK",
+    "query": "How could Solana token rug risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_455",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on Solana token rug risk, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_456",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about Solana token mint authority?"
+  },
+  {
+    "id": "ROUND2_457",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate Solana token mint authority?"
+  },
+  {
+    "id": "ROUND2_458",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from Solana token mint authority?"
+  },
+  {
+    "id": "ROUND2_459",
+    "category": "TOKEN_RISK",
+    "query": "How could Solana token mint authority affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_460",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on Solana token mint authority, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_461",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND2_462",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND2_463",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND2_464",
+    "category": "TOKEN_RISK",
+    "query": "How could Solana token freeze authority affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_465",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on Solana token freeze authority, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_466",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND2_467",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND2_468",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND2_469",
+    "category": "TOKEN_RISK",
+    "query": "How could Solana token holder concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_470",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on Solana token holder concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_471",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about top token holder concentration?"
+  },
+  {
+    "id": "ROUND2_472",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate top token holder concentration?"
+  },
+  {
+    "id": "ROUND2_473",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from top token holder concentration?"
+  },
+  {
+    "id": "ROUND2_474",
+    "category": "TOKEN_RISK",
+    "query": "How could top token holder concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_475",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on top token holder concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_476",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about top five token holder concentration?"
+  },
+  {
+    "id": "ROUND2_477",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate top five token holder concentration?"
+  },
+  {
+    "id": "ROUND2_478",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from top five token holder concentration?"
+  },
+  {
+    "id": "ROUND2_479",
+    "category": "TOKEN_RISK",
+    "query": "How could top five token holder concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_480",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on top five token holder concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_481",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND2_482",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND2_483",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND2_484",
+    "category": "TOKEN_RISK",
+    "query": "How could top ten token holder concentration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_485",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on top ten token holder concentration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_486",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND2_487",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND2_488",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND2_489",
+    "category": "TOKEN_RISK",
+    "query": "How could unusual token authority configuration affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_490",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on unusual token authority configuration, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_491",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about token risk flags?"
+  },
+  {
+    "id": "ROUND2_492",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate token risk flags?"
+  },
+  {
+    "id": "ROUND2_493",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from token risk flags?"
+  },
+  {
+    "id": "ROUND2_494",
+    "category": "TOKEN_RISK",
+    "query": "How could token risk flags affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_495",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on token risk flags, and do not make a settlement recommendation?"
+  },
+  {
+    "id": "ROUND2_496",
+    "category": "TOKEN_RISK",
+    "query": "What information does a financial intelligence system need about combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND2_497",
+    "category": "TOKEN_RISK",
+    "query": "What current data should be collected to evaluate combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND2_498",
+    "category": "TOKEN_RISK",
+    "query": "What risks can be identified from combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND2_499",
+    "category": "TOKEN_RISK",
+    "query": "How could combined Solana token fraud risk affect cryptocurrency market or settlement risk?"
+  },
+  {
+    "id": "ROUND2_500",
+    "category": "TOKEN_RISK",
+    "query": "What evidence should be collected before relying on combined Solana token fraud risk, and do not make a settlement recommendation?"
+  }
+]

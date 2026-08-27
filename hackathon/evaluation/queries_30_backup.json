@@ -1,0 +1,126 @@
+
+[
+  {
+    "id": "FIN_001",
+    "query": "Compare the information required to evaluate Bitcoin, EVM USDC, and traditional bank settlement for a $100,000 cross-border corporate payment. Do not recommend a route."
+  },
+  {
+    "id": "FIN_002",
+    "query": "What cost components should be collected before evaluating a Bitcoin cross-border payment, including network fees, exchange spreads, custody, and fiat conversion?"
+  },
+  {
+    "id": "FIN_003",
+    "query": "What cost components should be collected before evaluating an EVM USDC settlement, including gas, bridge fees, liquidity, exchange spreads, and fiat conversion?"
+  },
+  {
+    "id": "FIN_004",
+    "query": "What operational risks should be evaluated when a company uses blockchain assets for cross-border settlement?"
+  },
+  {
+    "id": "FIN_005",
+    "query": "What information is required to evaluate liquidity risk when converting BTC or USDC into a local fiat currency?"
+  },
+  {
+    "id": "FIN_006",
+    "query": "How should settlement finality, confirmation time, and transaction reliability be compared across Bitcoin, EVM networks, and banking systems?"
+  },
+  {
+    "id": "FIN_007",
+    "query": "What indicators could signal abnormal cost or liquidity conditions in a crypto settlement route?"
+  },
+  {
+    "id": "FIN_008",
+    "query": "What data should be collected to evaluate counterparty risk in a crypto-based settlement transaction?"
+  },
+
+  {
+    "id": "MARKET_001",
+    "query": "What market indicators should be monitored before executing a large Bitcoin transaction?"
+  },
+  {
+    "id": "MARKET_002",
+    "query": "How can Bitcoin network congestion affect transaction cost and settlement timing?"
+  },
+  {
+    "id": "MARKET_003",
+    "query": "What information from funding rates, open interest, basis, and volatility can indicate elevated crypto market risk?"
+  },
+  {
+    "id": "MARKET_004",
+    "query": "What indicators can distinguish normal cryptocurrency volatility from an abnormal market event?"
+  },
+  {
+    "id": "MARKET_005",
+    "query": "What information should be collected before evaluating liquidity risk for a large USDC transaction?"
+  },
+  {
+    "id": "MARKET_006",
+    "query": "How can exchange liquidity, order-book depth, spreads, and trading volume affect crypto settlement execution?"
+  },
+  {
+    "id": "MARKET_007",
+    "query": "What signals could indicate that a stablecoin market is experiencing unusual stress?"
+  },
+  {
+    "id": "MARKET_008",
+    "query": "What data should an automated financial-risk system collect before treating a crypto market signal as reliable?"
+  },
+
+  {
+    "id": "FRAUD_001",
+    "query": "What transaction characteristics can indicate potential cryptocurrency payment fraud?"
+  },
+  {
+    "id": "FRAUD_002",
+    "query": "What wallet-level signals should be evaluated before sending a large cryptocurrency payment?"
+  },
+  {
+    "id": "FRAUD_003",
+    "query": "What indicators can identify suspicious patterns in cryptocurrency transaction activity?"
+  },
+  {
+    "id": "FRAUD_004",
+    "query": "How can transaction velocity, address history, concentration, and unusual counterparties contribute to fraud-risk assessment?"
+  },
+  {
+    "id": "FRAUD_005",
+    "query": "What information should be collected before assigning a risk score to a cryptocurrency wallet?"
+  },
+  {
+    "id": "FRAUD_006",
+    "query": "What are the limitations of using blockchain transaction history alone for fraud detection?"
+  },
+  {
+    "id": "FRAUD_007",
+    "query": "How should an automated system separate confirmed fraud indicators from weak or speculative signals?"
+  },
+
+  {
+    "id": "MINER_001",
+    "query": "What characteristics should be evaluated when comparing competing financial-data intelligence providers?"
+  },
+  {
+    "id": "MINER_002",
+    "query": "How should an automated system evaluate the reliability of a real-time crypto market data source?"
+  },
+  {
+    "id": "MINER_003",
+    "query": "What evidence should be collected before treating an external AI-generated financial answer as trustworthy?"
+  },
+  {
+    "id": "MINER_004",
+    "query": "How should conflicting financial intelligence from multiple external sources be detected and represented?"
+  },
+  {
+    "id": "MINER_005",
+    "query": "What is the difference between a live financial data signal, an AI-generated interpretation, and a verified fact?"
+  },
+  {
+    "id": "MINER_006",
+    "query": "What characteristics make an external financial intelligence source useful for automated decision-support systems?"
+  },
+  {
+    "id": "MINER_007",
+    "query": "What validation steps should be performed before external financial intelligence is allowed to influence a deterministic decision engine?"
+  }
+]

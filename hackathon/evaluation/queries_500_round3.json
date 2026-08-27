@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "ROUND3_001",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin price?"
+  },
+  {
+    "id": "ROUND3_002",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin price?"
+  },
+  {
+    "id": "ROUND3_003",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin price?"
+  },
+  {
+    "id": "ROUND3_004",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin price?"
+  },
+  {
+    "id": "ROUND3_005",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin price?"
+  },
+  {
+    "id": "ROUND3_006",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum price?"
+  },
+  {
+    "id": "ROUND3_007",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum price?"
+  },
+  {
+    "id": "ROUND3_008",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum price?"
+  },
+  {
+    "id": "ROUND3_009",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum price?"
+  },
+  {
+    "id": "ROUND3_010",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum price?"
+  },
+  {
+    "id": "ROUND3_011",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Solana price?"
+  },
+  {
+    "id": "ROUND3_012",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Solana price?"
+  },
+  {
+    "id": "ROUND3_013",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Solana price?"
+  },
+  {
+    "id": "ROUND3_014",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Solana price?"
+  },
+  {
+    "id": "ROUND3_015",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Solana price?"
+  },
+  {
+    "id": "ROUND3_016",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about crypto market prices?"
+  },
+  {
+    "id": "ROUND3_017",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating crypto market prices?"
+  },
+  {
+    "id": "ROUND3_018",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for crypto market prices?"
+  },
+  {
+    "id": "ROUND3_019",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of crypto market prices?"
+  },
+  {
+    "id": "ROUND3_020",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for crypto market prices?"
+  },
+  {
+    "id": "ROUND3_021",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND3_022",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND3_023",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND3_024",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND3_025",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin funding rates?"
+  },
+  {
+    "id": "ROUND3_026",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND3_027",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND3_028",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND3_029",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND3_030",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum funding rates?"
+  },
+  {
+    "id": "ROUND3_031",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND3_032",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND3_033",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND3_034",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND3_035",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for USDT perpetual funding?"
+  },
+  {
+    "id": "ROUND3_036",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about cross-exchange funding rates?"
+  },
+  {
+    "id": "ROUND3_037",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating cross-exchange funding rates?"
+  },
+  {
+    "id": "ROUND3_038",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for cross-exchange funding rates?"
+  },
+  {
+    "id": "ROUND3_039",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of cross-exchange funding rates?"
+  },
+  {
+    "id": "ROUND3_040",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for cross-exchange funding rates?"
+  },
+  {
+    "id": "ROUND3_041",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND3_042",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND3_043",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND3_044",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND3_045",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin open interest?"
+  },
+  {
+    "id": "ROUND3_046",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum open interest?"
+  },
+  {
+    "id": "ROUND3_047",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum open interest?"
+  },
+  {
+    "id": "ROUND3_048",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum open interest?"
+  },
+  {
+    "id": "ROUND3_049",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum open interest?"
+  },
+  {
+    "id": "ROUND3_050",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum open interest?"
+  },
+  {
+    "id": "ROUND3_051",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND3_052",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND3_053",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND3_054",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND3_055",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for USDT perpetual open interest?"
+  },
+  {
+    "id": "ROUND3_056",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about changes in open interest?"
+  },
+  {
+    "id": "ROUND3_057",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating changes in open interest?"
+  },
+  {
+    "id": "ROUND3_058",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for changes in open interest?"
+  },
+  {
+    "id": "ROUND3_059",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of changes in open interest?"
+  },
+  {
+    "id": "ROUND3_060",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for changes in open interest?"
+  },
+  {
+    "id": "ROUND3_061",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_062",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_063",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_064",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_065",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for one-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_066",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_067",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_068",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_069",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_070",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 24-hour open interest changes?"
+  },
+  {
+    "id": "ROUND3_071",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND3_072",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND3_073",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND3_074",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND3_075",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin realized volatility?"
+  },
+  {
+    "id": "ROUND3_076",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND3_077",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND3_078",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND3_079",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND3_080",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum realized volatility?"
+  },
+  {
+    "id": "ROUND3_081",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_082",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_083",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_084",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_085",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 7-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_086",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_087",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_088",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_089",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_090",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 30-day realized volatility?"
+  },
+  {
+    "id": "ROUND3_091",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about daily crypto trading range?"
+  },
+  {
+    "id": "ROUND3_092",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating daily crypto trading range?"
+  },
+  {
+    "id": "ROUND3_093",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for daily crypto trading range?"
+  },
+  {
+    "id": "ROUND3_094",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of daily crypto trading range?"
+  },
+  {
+    "id": "ROUND3_095",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for daily crypto trading range?"
+  },
+  {
+    "id": "ROUND3_096",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about rapid volatility increases?"
+  },
+  {
+    "id": "ROUND3_097",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating rapid volatility increases?"
+  },
+  {
+    "id": "ROUND3_098",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for rapid volatility increases?"
+  },
+  {
+    "id": "ROUND3_099",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of rapid volatility increases?"
+  },
+  {
+    "id": "ROUND3_100",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for rapid volatility increases?"
+  },
+  {
+    "id": "ROUND3_101",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND3_102",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND3_103",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND3_104",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND3_105",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin perpetual basis?"
+  },
+  {
+    "id": "ROUND3_106",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND3_107",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND3_108",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND3_109",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND3_110",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum perpetual basis?"
+  },
+  {
+    "id": "ROUND3_111",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND3_112",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND3_113",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND3_114",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND3_115",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for perpetual versus spot prices?"
+  },
+  {
+    "id": "ROUND3_116",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about crypto contango?"
+  },
+  {
+    "id": "ROUND3_117",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating crypto contango?"
+  },
+  {
+    "id": "ROUND3_118",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for crypto contango?"
+  },
+  {
+    "id": "ROUND3_119",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of crypto contango?"
+  },
+  {
+    "id": "ROUND3_120",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for crypto contango?"
+  },
+  {
+    "id": "ROUND3_121",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about crypto backwardation?"
+  },
+  {
+    "id": "ROUND3_122",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating crypto backwardation?"
+  },
+  {
+    "id": "ROUND3_123",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for crypto backwardation?"
+  },
+  {
+    "id": "ROUND3_124",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of crypto backwardation?"
+  },
+  {
+    "id": "ROUND3_125",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for crypto backwardation?"
+  },
+  {
+    "id": "ROUND3_126",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about rapid basis changes?"
+  },
+  {
+    "id": "ROUND3_127",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating rapid basis changes?"
+  },
+  {
+    "id": "ROUND3_128",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for rapid basis changes?"
+  },
+  {
+    "id": "ROUND3_129",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of rapid basis changes?"
+  },
+  {
+    "id": "ROUND3_130",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for rapid basis changes?"
+  },
+  {
+    "id": "ROUND3_131",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND3_132",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND3_133",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND3_134",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND3_135",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Bitcoin liquidations?"
+  },
+  {
+    "id": "ROUND3_136",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND3_137",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND3_138",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND3_139",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND3_140",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for Ethereum liquidations?"
+  },
+  {
+    "id": "ROUND3_141",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about long liquidation activity?"
+  },
+  {
+    "id": "ROUND3_142",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating long liquidation activity?"
+  },
+  {
+    "id": "ROUND3_143",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for long liquidation activity?"
+  },
+  {
+    "id": "ROUND3_144",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of long liquidation activity?"
+  },
+  {
+    "id": "ROUND3_145",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for long liquidation activity?"
+  },
+  {
+    "id": "ROUND3_146",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about short liquidation activity?"
+  },
+  {
+    "id": "ROUND3_147",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating short liquidation activity?"
+  },
+  {
+    "id": "ROUND3_148",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for short liquidation activity?"
+  },
+  {
+    "id": "ROUND3_149",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of short liquidation activity?"
+  },
+  {
+    "id": "ROUND3_150",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for short liquidation activity?"
+  },
+  {
+    "id": "ROUND3_151",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_152",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_153",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_154",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_155",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_156",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND3_157",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND3_158",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND3_159",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND3_160",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for rapid liquidation increases?"
+  },
+  {
+    "id": "ROUND3_161",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about largest crypto gainers?"
+  },
+  {
+    "id": "ROUND3_162",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating largest crypto gainers?"
+  },
+  {
+    "id": "ROUND3_163",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for largest crypto gainers?"
+  },
+  {
+    "id": "ROUND3_164",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of largest crypto gainers?"
+  },
+  {
+    "id": "ROUND3_165",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for largest crypto gainers?"
+  },
+  {
+    "id": "ROUND3_166",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about largest crypto losers?"
+  },
+  {
+    "id": "ROUND3_167",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating largest crypto losers?"
+  },
+  {
+    "id": "ROUND3_168",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for largest crypto losers?"
+  },
+  {
+    "id": "ROUND3_169",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of largest crypto losers?"
+  },
+  {
+    "id": "ROUND3_170",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for largest crypto losers?"
+  },
+  {
+    "id": "ROUND3_171",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND3_172",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND3_173",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND3_174",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND3_175",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 24-hour crypto price movers?"
+  },
+  {
+    "id": "ROUND3_176",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND3_177",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND3_178",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND3_179",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND3_180",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for unusual crypto price movements?"
+  },
+  {
+    "id": "ROUND3_181",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND3_182",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND3_183",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND3_184",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND3_185",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for crypto momentum conditions?"
+  },
+  {
+    "id": "ROUND3_186",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND3_187",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND3_188",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND3_189",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND3_190",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for extreme short-term price movements?"
+  },
+  {
+    "id": "ROUND3_191",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about DeFi total value locked?"
+  },
+  {
+    "id": "ROUND3_192",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating DeFi total value locked?"
+  },
+  {
+    "id": "ROUND3_193",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for DeFi total value locked?"
+  },
+  {
+    "id": "ROUND3_194",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of DeFi total value locked?"
+  },
+  {
+    "id": "ROUND3_195",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for DeFi total value locked?"
+  },
+  {
+    "id": "ROUND3_196",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about protocol TVL?"
+  },
+  {
+    "id": "ROUND3_197",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating protocol TVL?"
+  },
+  {
+    "id": "ROUND3_198",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for protocol TVL?"
+  },
+  {
+    "id": "ROUND3_199",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of protocol TVL?"
+  },
+  {
+    "id": "ROUND3_200",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for protocol TVL?"
+  },
+  {
+    "id": "ROUND3_201",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about chain TVL?"
+  },
+  {
+    "id": "ROUND3_202",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating chain TVL?"
+  },
+  {
+    "id": "ROUND3_203",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for chain TVL?"
+  },
+  {
+    "id": "ROUND3_204",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of chain TVL?"
+  },
+  {
+    "id": "ROUND3_205",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for chain TVL?"
+  },
+  {
+    "id": "ROUND3_206",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 24-hour TVL changes?"
+  },
+  {
+    "id": "ROUND3_207",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 24-hour TVL changes?"
+  },
+  {
+    "id": "ROUND3_208",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 24-hour TVL changes?"
+  },
+  {
+    "id": "ROUND3_209",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 24-hour TVL changes?"
+  },
+  {
+    "id": "ROUND3_210",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 24-hour TVL changes?"
+  },
+  {
+    "id": "ROUND3_211",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about 7-day TVL changes?"
+  },
+  {
+    "id": "ROUND3_212",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating 7-day TVL changes?"
+  },
+  {
+    "id": "ROUND3_213",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for 7-day TVL changes?"
+  },
+  {
+    "id": "ROUND3_214",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of 7-day TVL changes?"
+  },
+  {
+    "id": "ROUND3_215",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for 7-day TVL changes?"
+  },
+  {
+    "id": "ROUND3_216",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about DeFi liquidity?"
+  },
+  {
+    "id": "ROUND3_217",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating DeFi liquidity?"
+  },
+  {
+    "id": "ROUND3_218",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for DeFi liquidity?"
+  },
+  {
+    "id": "ROUND3_219",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of DeFi liquidity?"
+  },
+  {
+    "id": "ROUND3_220",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for DeFi liquidity?"
+  },
+  {
+    "id": "ROUND3_221",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_222",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_223",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_224",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_225",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for protocol liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_226",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_227",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_228",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_229",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_230",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for chain liquidity concentration?"
+  },
+  {
+    "id": "ROUND3_231",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about rapid TVL decline?"
+  },
+  {
+    "id": "ROUND3_232",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating rapid TVL decline?"
+  },
+  {
+    "id": "ROUND3_233",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for rapid TVL decline?"
+  },
+  {
+    "id": "ROUND3_234",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of rapid TVL decline?"
+  },
+  {
+    "id": "ROUND3_235",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for rapid TVL decline?"
+  },
+  {
+    "id": "ROUND3_236",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about rapid TVL growth?"
+  },
+  {
+    "id": "ROUND3_237",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating rapid TVL growth?"
+  },
+  {
+    "id": "ROUND3_238",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for rapid TVL growth?"
+  },
+  {
+    "id": "ROUND3_239",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of rapid TVL growth?"
+  },
+  {
+    "id": "ROUND3_240",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for rapid TVL growth?"
+  },
+  {
+    "id": "ROUND3_241",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about crypto market liquidity?"
+  },
+  {
+    "id": "ROUND3_242",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating crypto market liquidity?"
+  },
+  {
+    "id": "ROUND3_243",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for crypto market liquidity?"
+  },
+  {
+    "id": "ROUND3_244",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of crypto market liquidity?"
+  },
+  {
+    "id": "ROUND3_245",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for crypto market liquidity?"
+  },
+  {
+    "id": "ROUND3_246",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What current financial data should be collected about cross-market crypto conditions?"
+  },
+  {
+    "id": "ROUND3_247",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What market intelligence is relevant when evaluating cross-market crypto conditions?"
+  },
+  {
+    "id": "ROUND3_248",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What quantitative data should an analyst obtain for cross-market crypto conditions?"
+  },
+  {
+    "id": "ROUND3_249",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What evidence is needed to assess the current state of cross-market crypto conditions?"
+  },
+  {
+    "id": "ROUND3_250",
+    "intent": "FINANCIAL_DATA",
+    "category": "FINANCIAL_DATA",
+    "query": "What time-sensitive financial information should be checked for cross-market crypto conditions?"
+  },
+  {
+    "id": "ROUND3_251",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving a Solana token rug pull?"
+  },
+  {
+    "id": "ROUND3_252",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for a Solana token rug pull?"
+  },
+  {
+    "id": "ROUND3_253",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating a Solana token rug pull?"
+  },
+  {
+    "id": "ROUND3_254",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving a Solana token rug pull?"
+  },
+  {
+    "id": "ROUND3_255",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving a Solana token rug pull?"
+  },
+  {
+    "id": "ROUND3_256",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving Solana token mint authority?"
+  },
+  {
+    "id": "ROUND3_257",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for Solana token mint authority?"
+  },
+  {
+    "id": "ROUND3_258",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating Solana token mint authority?"
+  },
+  {
+    "id": "ROUND3_259",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving Solana token mint authority?"
+  },
+  {
+    "id": "ROUND3_260",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving Solana token mint authority?"
+  },
+  {
+    "id": "ROUND3_261",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND3_262",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND3_263",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND3_264",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND3_265",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving Solana token freeze authority?"
+  },
+  {
+    "id": "ROUND3_266",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND3_267",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND3_268",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND3_269",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND3_270",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving Solana token holder concentration?"
+  },
+  {
+    "id": "ROUND3_271",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving top token holder concentration?"
+  },
+  {
+    "id": "ROUND3_272",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for top token holder concentration?"
+  },
+  {
+    "id": "ROUND3_273",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating top token holder concentration?"
+  },
+  {
+    "id": "ROUND3_274",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving top token holder concentration?"
+  },
+  {
+    "id": "ROUND3_275",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving top token holder concentration?"
+  },
+  {
+    "id": "ROUND3_276",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving top five token holder concentration?"
+  },
+  {
+    "id": "ROUND3_277",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for top five token holder concentration?"
+  },
+  {
+    "id": "ROUND3_278",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating top five token holder concentration?"
+  },
+  {
+    "id": "ROUND3_279",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving top five token holder concentration?"
+  },
+  {
+    "id": "ROUND3_280",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving top five token holder concentration?"
+  },
+  {
+    "id": "ROUND3_281",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND3_282",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND3_283",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND3_284",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND3_285",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving top ten token holder concentration?"
+  },
+  {
+    "id": "ROUND3_286",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND3_287",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND3_288",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND3_289",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND3_290",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual token authority configuration?"
+  },
+  {
+    "id": "ROUND3_291",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving token risk flags?"
+  },
+  {
+    "id": "ROUND3_292",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for token risk flags?"
+  },
+  {
+    "id": "ROUND3_293",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating token risk flags?"
+  },
+  {
+    "id": "ROUND3_294",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving token risk flags?"
+  },
+  {
+    "id": "ROUND3_295",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving token risk flags?"
+  },
+  {
+    "id": "ROUND3_296",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND3_297",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND3_298",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND3_299",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND3_300",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving combined Solana token fraud risk?"
+  },
+  {
+    "id": "ROUND3_301",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving sudden token liquidity withdrawal?"
+  },
+  {
+    "id": "ROUND3_302",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for sudden token liquidity withdrawal?"
+  },
+  {
+    "id": "ROUND3_303",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating sudden token liquidity withdrawal?"
+  },
+  {
+    "id": "ROUND3_304",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving sudden token liquidity withdrawal?"
+  },
+  {
+    "id": "ROUND3_305",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving sudden token liquidity withdrawal?"
+  },
+  {
+    "id": "ROUND3_306",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving rapid token liquidity loss?"
+  },
+  {
+    "id": "ROUND3_307",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for rapid token liquidity loss?"
+  },
+  {
+    "id": "ROUND3_308",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating rapid token liquidity loss?"
+  },
+  {
+    "id": "ROUND3_309",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving rapid token liquidity loss?"
+  },
+  {
+    "id": "ROUND3_310",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving rapid token liquidity loss?"
+  },
+  {
+    "id": "ROUND3_311",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving rapid token liquidity growth?"
+  },
+  {
+    "id": "ROUND3_312",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for rapid token liquidity growth?"
+  },
+  {
+    "id": "ROUND3_313",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating rapid token liquidity growth?"
+  },
+  {
+    "id": "ROUND3_314",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving rapid token liquidity growth?"
+  },
+  {
+    "id": "ROUND3_315",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving rapid token liquidity growth?"
+  },
+  {
+    "id": "ROUND3_316",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal token trading volume?"
+  },
+  {
+    "id": "ROUND3_317",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal token trading volume?"
+  },
+  {
+    "id": "ROUND3_318",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal token trading volume?"
+  },
+  {
+    "id": "ROUND3_319",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal token trading volume?"
+  },
+  {
+    "id": "ROUND3_320",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal token trading volume?"
+  },
+  {
+    "id": "ROUND3_321",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal token price movement?"
+  },
+  {
+    "id": "ROUND3_322",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal token price movement?"
+  },
+  {
+    "id": "ROUND3_323",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal token price movement?"
+  },
+  {
+    "id": "ROUND3_324",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal token price movement?"
+  },
+  {
+    "id": "ROUND3_325",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal token price movement?"
+  },
+  {
+    "id": "ROUND3_326",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving extreme token price increases?"
+  },
+  {
+    "id": "ROUND3_327",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for extreme token price increases?"
+  },
+  {
+    "id": "ROUND3_328",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating extreme token price increases?"
+  },
+  {
+    "id": "ROUND3_329",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving extreme token price increases?"
+  },
+  {
+    "id": "ROUND3_330",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving extreme token price increases?"
+  },
+  {
+    "id": "ROUND3_331",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving extreme token price decreases?"
+  },
+  {
+    "id": "ROUND3_332",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for extreme token price decreases?"
+  },
+  {
+    "id": "ROUND3_333",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating extreme token price decreases?"
+  },
+  {
+    "id": "ROUND3_334",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving extreme token price decreases?"
+  },
+  {
+    "id": "ROUND3_335",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving extreme token price decreases?"
+  },
+  {
+    "id": "ROUND3_336",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving sudden token price collapse?"
+  },
+  {
+    "id": "ROUND3_337",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for sudden token price collapse?"
+  },
+  {
+    "id": "ROUND3_338",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating sudden token price collapse?"
+  },
+  {
+    "id": "ROUND3_339",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving sudden token price collapse?"
+  },
+  {
+    "id": "ROUND3_340",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving sudden token price collapse?"
+  },
+  {
+    "id": "ROUND3_341",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious token launch activity?"
+  },
+  {
+    "id": "ROUND3_342",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious token launch activity?"
+  },
+  {
+    "id": "ROUND3_343",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious token launch activity?"
+  },
+  {
+    "id": "ROUND3_344",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious token launch activity?"
+  },
+  {
+    "id": "ROUND3_345",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious token launch activity?"
+  },
+  {
+    "id": "ROUND3_346",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving concentrated token ownership?"
+  },
+  {
+    "id": "ROUND3_347",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for concentrated token ownership?"
+  },
+  {
+    "id": "ROUND3_348",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating concentrated token ownership?"
+  },
+  {
+    "id": "ROUND3_349",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving concentrated token ownership?"
+  },
+  {
+    "id": "ROUND3_350",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving concentrated token ownership?"
+  },
+  {
+    "id": "ROUND3_351",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving large token transfers by major holders?"
+  },
+  {
+    "id": "ROUND3_352",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for large token transfers by major holders?"
+  },
+  {
+    "id": "ROUND3_353",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating large token transfers by major holders?"
+  },
+  {
+    "id": "ROUND3_354",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving large token transfers by major holders?"
+  },
+  {
+    "id": "ROUND3_355",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving large token transfers by major holders?"
+  },
+  {
+    "id": "ROUND3_356",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving coordinated token selling?"
+  },
+  {
+    "id": "ROUND3_357",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for coordinated token selling?"
+  },
+  {
+    "id": "ROUND3_358",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating coordinated token selling?"
+  },
+  {
+    "id": "ROUND3_359",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving coordinated token selling?"
+  },
+  {
+    "id": "ROUND3_360",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving coordinated token selling?"
+  },
+  {
+    "id": "ROUND3_361",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving possible pump-and-dump activity?"
+  },
+  {
+    "id": "ROUND3_362",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for possible pump-and-dump activity?"
+  },
+  {
+    "id": "ROUND3_363",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating possible pump-and-dump activity?"
+  },
+  {
+    "id": "ROUND3_364",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving possible pump-and-dump activity?"
+  },
+  {
+    "id": "ROUND3_365",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving possible pump-and-dump activity?"
+  },
+  {
+    "id": "ROUND3_366",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving possible wash trading?"
+  },
+  {
+    "id": "ROUND3_367",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for possible wash trading?"
+  },
+  {
+    "id": "ROUND3_368",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating possible wash trading?"
+  },
+  {
+    "id": "ROUND3_369",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving possible wash trading?"
+  },
+  {
+    "id": "ROUND3_370",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving possible wash trading?"
+  },
+  {
+    "id": "ROUND3_371",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving possible market manipulation?"
+  },
+  {
+    "id": "ROUND3_372",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for possible market manipulation?"
+  },
+  {
+    "id": "ROUND3_373",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating possible market manipulation?"
+  },
+  {
+    "id": "ROUND3_374",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving possible market manipulation?"
+  },
+  {
+    "id": "ROUND3_375",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving possible market manipulation?"
+  },
+  {
+    "id": "ROUND3_376",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual trading patterns?"
+  },
+  {
+    "id": "ROUND3_377",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual trading patterns?"
+  },
+  {
+    "id": "ROUND3_378",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual trading patterns?"
+  },
+  {
+    "id": "ROUND3_379",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual trading patterns?"
+  },
+  {
+    "id": "ROUND3_380",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual trading patterns?"
+  },
+  {
+    "id": "ROUND3_381",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal exchange activity?"
+  },
+  {
+    "id": "ROUND3_382",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal exchange activity?"
+  },
+  {
+    "id": "ROUND3_383",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal exchange activity?"
+  },
+  {
+    "id": "ROUND3_384",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal exchange activity?"
+  },
+  {
+    "id": "ROUND3_385",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal exchange activity?"
+  },
+  {
+    "id": "ROUND3_386",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious cross-exchange price differences?"
+  },
+  {
+    "id": "ROUND3_387",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious cross-exchange price differences?"
+  },
+  {
+    "id": "ROUND3_388",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious cross-exchange price differences?"
+  },
+  {
+    "id": "ROUND3_389",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious cross-exchange price differences?"
+  },
+  {
+    "id": "ROUND3_390",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious cross-exchange price differences?"
+  },
+  {
+    "id": "ROUND3_391",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual funding conditions?"
+  },
+  {
+    "id": "ROUND3_392",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual funding conditions?"
+  },
+  {
+    "id": "ROUND3_393",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual funding conditions?"
+  },
+  {
+    "id": "ROUND3_394",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual funding conditions?"
+  },
+  {
+    "id": "ROUND3_395",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual funding conditions?"
+  },
+  {
+    "id": "ROUND3_396",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving extreme funding rates?"
+  },
+  {
+    "id": "ROUND3_397",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for extreme funding rates?"
+  },
+  {
+    "id": "ROUND3_398",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating extreme funding rates?"
+  },
+  {
+    "id": "ROUND3_399",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving extreme funding rates?"
+  },
+  {
+    "id": "ROUND3_400",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving extreme funding rates?"
+  },
+  {
+    "id": "ROUND3_401",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal open interest growth?"
+  },
+  {
+    "id": "ROUND3_402",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal open interest growth?"
+  },
+  {
+    "id": "ROUND3_403",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal open interest growth?"
+  },
+  {
+    "id": "ROUND3_404",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal open interest growth?"
+  },
+  {
+    "id": "ROUND3_405",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal open interest growth?"
+  },
+  {
+    "id": "ROUND3_406",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal liquidation activity?"
+  },
+  {
+    "id": "ROUND3_407",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal liquidation activity?"
+  },
+  {
+    "id": "ROUND3_408",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal liquidation activity?"
+  },
+  {
+    "id": "ROUND3_409",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal liquidation activity?"
+  },
+  {
+    "id": "ROUND3_410",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal liquidation activity?"
+  },
+  {
+    "id": "ROUND3_411",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_412",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_413",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_414",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_415",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual liquidation concentration?"
+  },
+  {
+    "id": "ROUND3_416",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving possible liquidation manipulation?"
+  },
+  {
+    "id": "ROUND3_417",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for possible liquidation manipulation?"
+  },
+  {
+    "id": "ROUND3_418",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating possible liquidation manipulation?"
+  },
+  {
+    "id": "ROUND3_419",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving possible liquidation manipulation?"
+  },
+  {
+    "id": "ROUND3_420",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving possible liquidation manipulation?"
+  },
+  {
+    "id": "ROUND3_421",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious short squeeze conditions?"
+  },
+  {
+    "id": "ROUND3_422",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious short squeeze conditions?"
+  },
+  {
+    "id": "ROUND3_423",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious short squeeze conditions?"
+  },
+  {
+    "id": "ROUND3_424",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious short squeeze conditions?"
+  },
+  {
+    "id": "ROUND3_425",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious short squeeze conditions?"
+  },
+  {
+    "id": "ROUND3_426",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious long flush conditions?"
+  },
+  {
+    "id": "ROUND3_427",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious long flush conditions?"
+  },
+  {
+    "id": "ROUND3_428",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious long flush conditions?"
+  },
+  {
+    "id": "ROUND3_429",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious long flush conditions?"
+  },
+  {
+    "id": "ROUND3_430",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious long flush conditions?"
+  },
+  {
+    "id": "ROUND3_431",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving abnormal perpetual market behavior?"
+  },
+  {
+    "id": "ROUND3_432",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for abnormal perpetual market behavior?"
+  },
+  {
+    "id": "ROUND3_433",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating abnormal perpetual market behavior?"
+  },
+  {
+    "id": "ROUND3_434",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving abnormal perpetual market behavior?"
+  },
+  {
+    "id": "ROUND3_435",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving abnormal perpetual market behavior?"
+  },
+  {
+    "id": "ROUND3_436",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual basis conditions?"
+  },
+  {
+    "id": "ROUND3_437",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual basis conditions?"
+  },
+  {
+    "id": "ROUND3_438",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual basis conditions?"
+  },
+  {
+    "id": "ROUND3_439",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual basis conditions?"
+  },
+  {
+    "id": "ROUND3_440",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual basis conditions?"
+  },
+  {
+    "id": "ROUND3_441",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving rapid changes in market positioning?"
+  },
+  {
+    "id": "ROUND3_442",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for rapid changes in market positioning?"
+  },
+  {
+    "id": "ROUND3_443",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating rapid changes in market positioning?"
+  },
+  {
+    "id": "ROUND3_444",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving rapid changes in market positioning?"
+  },
+  {
+    "id": "ROUND3_445",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving rapid changes in market positioning?"
+  },
+  {
+    "id": "ROUND3_446",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving extreme long-short positioning?"
+  },
+  {
+    "id": "ROUND3_447",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for extreme long-short positioning?"
+  },
+  {
+    "id": "ROUND3_448",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating extreme long-short positioning?"
+  },
+  {
+    "id": "ROUND3_449",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving extreme long-short positioning?"
+  },
+  {
+    "id": "ROUND3_450",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving extreme long-short positioning?"
+  },
+  {
+    "id": "ROUND3_451",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious DeFi liquidity movements?"
+  },
+  {
+    "id": "ROUND3_452",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious DeFi liquidity movements?"
+  },
+  {
+    "id": "ROUND3_453",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious DeFi liquidity movements?"
+  },
+  {
+    "id": "ROUND3_454",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious DeFi liquidity movements?"
+  },
+  {
+    "id": "ROUND3_455",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious DeFi liquidity movements?"
+  },
+  {
+    "id": "ROUND3_456",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving unusual DeFi TVL changes?"
+  },
+  {
+    "id": "ROUND3_457",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for unusual DeFi TVL changes?"
+  },
+  {
+    "id": "ROUND3_458",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating unusual DeFi TVL changes?"
+  },
+  {
+    "id": "ROUND3_459",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving unusual DeFi TVL changes?"
+  },
+  {
+    "id": "ROUND3_460",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving unusual DeFi TVL changes?"
+  },
+  {
+    "id": "ROUND3_461",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving rapid protocol TVL decline?"
+  },
+  {
+    "id": "ROUND3_462",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for rapid protocol TVL decline?"
+  },
+  {
+    "id": "ROUND3_463",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating rapid protocol TVL decline?"
+  },
+  {
+    "id": "ROUND3_464",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving rapid protocol TVL decline?"
+  },
+  {
+    "id": "ROUND3_465",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving rapid protocol TVL decline?"
+  },
+  {
+    "id": "ROUND3_466",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving rapid protocol TVL growth?"
+  },
+  {
+    "id": "ROUND3_467",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for rapid protocol TVL growth?"
+  },
+  {
+    "id": "ROUND3_468",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating rapid protocol TVL growth?"
+  },
+  {
+    "id": "ROUND3_469",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving rapid protocol TVL growth?"
+  },
+  {
+    "id": "ROUND3_470",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving rapid protocol TVL growth?"
+  },
+  {
+    "id": "ROUND3_471",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving concentrated protocol liquidity?"
+  },
+  {
+    "id": "ROUND3_472",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for concentrated protocol liquidity?"
+  },
+  {
+    "id": "ROUND3_473",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating concentrated protocol liquidity?"
+  },
+  {
+    "id": "ROUND3_474",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving concentrated protocol liquidity?"
+  },
+  {
+    "id": "ROUND3_475",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving concentrated protocol liquidity?"
+  },
+  {
+    "id": "ROUND3_476",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving suspicious token risk indicators?"
+  },
+  {
+    "id": "ROUND3_477",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for suspicious token risk indicators?"
+  },
+  {
+    "id": "ROUND3_478",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating suspicious token risk indicators?"
+  },
+  {
+    "id": "ROUND3_479",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving suspicious token risk indicators?"
+  },
+  {
+    "id": "ROUND3_480",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving suspicious token risk indicators?"
+  },
+  {
+    "id": "ROUND3_481",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving conflicting fraud indicators?"
+  },
+  {
+    "id": "ROUND3_482",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for conflicting fraud indicators?"
+  },
+  {
+    "id": "ROUND3_483",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating conflicting fraud indicators?"
+  },
+  {
+    "id": "ROUND3_484",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving conflicting fraud indicators?"
+  },
+  {
+    "id": "ROUND3_485",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving conflicting fraud indicators?"
+  },
+  {
+    "id": "ROUND3_486",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving incomplete fraud evidence?"
+  },
+  {
+    "id": "ROUND3_487",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for incomplete fraud evidence?"
+  },
+  {
+    "id": "ROUND3_488",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating incomplete fraud evidence?"
+  },
+  {
+    "id": "ROUND3_489",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving incomplete fraud evidence?"
+  },
+  {
+    "id": "ROUND3_490",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving incomplete fraud evidence?"
+  },
+  {
+    "id": "ROUND3_491",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving uncertain fraud signals?"
+  },
+  {
+    "id": "ROUND3_492",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for uncertain fraud signals?"
+  },
+  {
+    "id": "ROUND3_493",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating uncertain fraud signals?"
+  },
+  {
+    "id": "ROUND3_494",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving uncertain fraud signals?"
+  },
+  {
+    "id": "ROUND3_495",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving uncertain fraud signals?"
+  },
+  {
+    "id": "ROUND3_496",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What evidence could indicate possible fraud involving false positive fraud indicators?"
+  },
+  {
+    "id": "ROUND3_497",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What signals should a fraud detection system examine for false positive fraud indicators?"
+  },
+  {
+    "id": "ROUND3_498",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What suspicious patterns should be investigated when evaluating false positive fraud indicators?"
+  },
+  {
+    "id": "ROUND3_499",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "What data should be collected to detect potential fraud involving false positive fraud indicators?"
+  },
+  {
+    "id": "ROUND3_500",
+    "intent": "FRAUD_DETECTION",
+    "category": "FRAUD_DETECTION",
+    "query": "How can an analyst distinguish legitimate activity from potentially fraudulent activity involving false positive fraud indicators?"
+  }
+]
