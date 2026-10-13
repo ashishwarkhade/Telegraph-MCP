@@ -9,6 +9,7 @@ import { syncSubnetTools } from "./tools/subnets.js";
 import { registerEngineTools } from "./tools/engine.js";
 import { registerDaemonTools } from "./tools/daemon.js";
 import { registerNodeTools } from "./tools/node.js";
+import { registerBricsTools } from "./tools/brics.js";
 import { startServer } from "./transport.js";
 
 async function main() {
@@ -27,11 +28,12 @@ async function main() {
     version: "1.0.0",
   });
 
-  console.error("[telegraph-mcp] Registering node tools...");
+  console.error("[telegraph-mcp] Registering tools...");
   registerNodeTools(server, config);
   registerEngineTools(server, config, fetchWithPayment);
   registerDaemonTools(server, config);
-  console.error("[telegraph-mcp] Node/engine/daemon tools registered");
+  registerBricsTools(server);
+  console.error("[telegraph-mcp] Node/engine/daemon/BRICS tools registered");
 
   async function refreshSubnetTools() {
     try {
@@ -39,32 +41,44 @@ async function main() {
       const integrations = await discoverSubnets(config.nodeUrl);
       console.error(`[telegraph-mcp] Found ${integrations.length} integrations`);
 
-      const result = syncSubnetTools(server, integrations, config, fetchWithPayment);
-      console.error(`[telegraph-mcp] Sync: +${result.added} new, -${result.removed} removed, ${result.kept} unchanged`);
+      const result = syncSubnetTools(
+        server,
+        integrations,
+        config,
+        fetchWithPayment
+      );
+
+      console.error(
+        `[telegraph-mcp] Sync: +${result.added} new, -${result.removed} removed, ${result.kept} unchanged`
+      );
 
       if (result.added > 0 || result.removed > 0) {
         try {
           server.sendToolListChanged();
         } catch {
-          console.error("[telegraph-mcp] Tool list change notification sent");
+          console.error("[telegraph-mcp] Tool list change notification attempted");
         }
       }
-    } catch (err: any) {
-      console.error(`[telegraph-mcp] Refresh failed: ${err.message}`);
+    } catch (err: unknown) {
+      const message = err instanceof Error ? err.message : String(err);
+      console.error(`[telegraph-mcp] Refresh failed: ${message}`);
     }
   }
 
   await refreshSubnetTools();
 
   if (config.refreshIntervalMs > 0) {
-    console.error(`[telegraph-mcp] Auto-refresh every ${config.refreshIntervalMs / 1000}s`);
+    console.error(
+      `[telegraph-mcp] Auto-refresh every ${config.refreshIntervalMs / 1000}s`
+    );
     setInterval(refreshSubnetTools, config.refreshIntervalMs);
   }
 
   await startServer(server, config);
 }
 
-main().catch((err) => {
-  console.error(`[telegraph-mcp] Fatal: ${err.message}`);
+main().catch((err: unknown) => {
+  const message = err instanceof Error ? err.message : String(err);
+  console.error(`[telegraph-mcp] Fatal: ${message}`);
   process.exit(1);
 });
